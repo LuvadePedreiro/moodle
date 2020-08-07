@@ -1,0 +1,6 @@
+*.out
+*.c
+solver.*
+Solver.*
+*.py
+t.tio

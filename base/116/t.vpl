@@ -1,0 +1,23 @@
+case=
+input=extraordinario
+aeioubcdfgh
+*
+output="e***ao*di*a*io
+"
+grade reduction=100%
+
+case=
+input=Teco-Teco!
+tbxyan
+_
+output="T___-T___!
+"
+grade reduction=100%
+
+case=
+input=Seu Pilantra!
+yzxa
+*
+output="*** ***a***a!
+"
+grade reduction=100%
