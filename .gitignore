@@ -4,3 +4,6 @@ solver.*
 Solver.*
 *.py
 t.tio
+.vscode
+.html
+.vpl
