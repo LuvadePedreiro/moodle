@@ -15,13 +15,15 @@
 <!--TOC_END-->
 ## operações
 
-- [@011 L1 - Formatando data](base/011)  [](#operações)
-- [@000 L1 - Operações básicas](base/000)  [](#operações)
-- [@003 L2 - Opala bebedor](base/003)  [](#operações)
-- [@002 L2 - Pintando a casa](base/002)  [](#operações)
-- [@005 L3 - Ladrão de Goiabas](base/005)  [](#operações)
-- [@004 L3 - Mete bala](base/004)  [](#operações)
-- [@006 L3 - Zerinho ou um americano](base/006)  [](#operações)
+Índice|Título|Conteúdo
+-|-|-
+- [@000 L1 - Operações básicas - Imprimindo float formatado](base/000)  [](#operações)
+- [@011 L1 - Formatando data - Definindos casas decimais e operador de módulo](base/011)  [](#operações)
+- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003)  [](#operações)
+- [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002)  [](#operações)
+- [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005)  [](#operações)
+- [@004 L3 - Mete bala - Distância entre dois pontos](base/004)  [](#operações)
+- [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006)  [](#operações)
 
 ## seleção
 
@@ -63,7 +65,6 @@
 - [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001)  [](#seleção)
 
 ## repetição
-
 - [@056 L1 - Calça Zeze de Camargo - Mínimo](base/056)  [](#repetição)
 - [@013 L1 - Dividindo pares de sapatos pra três](base/013)  [](#repetição)
 - [@055 L1 - Quantos Ultrons você vê - Contar Elemento](base/055)  [](#repetição)
@@ -82,6 +83,7 @@
 - [@063 L3 - Blackjack 21!](base/063)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064)  [](#repetição)
 - [@052 L3 - Hoje tem sopa de coelho?](base/052)  [](#repetição)
+- [@190 L3 - Maiores Palindromos](base/190)  [](#repetição)
 - [@053 L3 - OBI 2016 - Fuga em helicóptero](base/053)  [](#repetição)
 - [@054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059)  [](#repetição)
@@ -173,11 +175,12 @@
 - [@123 L3 - Sorvete suor casaca chicletes - Letras em Comum!](base/123)  [](#strings)
 - [@107 L3 - Valdiskley e a Cifra v3!](base/107)  [](#strings)
 - [@105 L3 - Valdiskley e cifras históricas!](base/105)  [](#strings)
+- [@162 L3 - Mini-Poker - OBI2005](base/162) 
 
 ## matrizes
-
 - [@130 L2 - Bingo!](base/130)  [](#matrizes)
 - [@012 L2 - Deu a louca no Imperador!](base/012)  [](#matrizes)
+- [@191 L2 - Coluna de Valor Maior](base/191)  [](#matrizes)
 - [@134 L2 - Quadrado Mágico](base/134)  [](#matrizes)
 - [@133 L2 - Soldados em Posição](base/133)  [](#matrizes)
 - [@128 L2 - Soma de elementos de em uma matriz](base/128)  [](#matrizes)
@@ -211,8 +214,10 @@
 
 ## structs
 
+
 - [@148 L1 - Expressão](base/148)  [](#structs)
 - [@149 L1 - Operações](base/149)  [](#structs)
+- [@184 L3 - Motivando a turma de secundaristas](base/184) 
 - [@187 L2 - Jogo da cobrinha](base/187)  [](#structs)
 - [@182 L3 - Mulher mais idosa](base/182)  [](#structs)
 

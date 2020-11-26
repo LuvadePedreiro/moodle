@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>@011 L1 - Formatando data - Definindos casas decimais e operador de módulo</title>
+  <title>@190 L3 - Maiores Palindromos</title>
   <style>
     html {
       line-height: 1.7;
@@ -124,53 +124,57 @@
   <![endif]-->
 </head>
 <body>
-<h2 id="section"><span class="citation" data-cites="011">@011</span></h2>
-<h2 id="operações-l1---formatando-data---definindos-casas-decimais-e-operador-de-módulo">#operações L1 - Formatando data - Definindos casas decimais e operador de módulo</h2>
-<p><img src="https://raw.githubusercontent.com/qxcodefup/moodle/master/base/011/__capa.jpg" /></p>
+<h2 id="section"><span class="citation" data-cites="190">@190</span></h2>
+<h2 id="l3---maiores-palindromos-repetição">L3 - Maiores Palindromos #repetição</h2>
 <h2 id="motivação">Motivação</h2>
-<p>Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos. A hora de entrada poderá aparecer no formato 24 horas, mas apresente-a na saída no formato 12h.</p>
+<p>Pedrinho está resolvendo enigmas continuamente e agora ele esta estudando numeros palindromos, pra quem não sabe ou quem quer saber, um número palíndromo tem a mesma leitura nos dois sentidos.</p>
+<h3 id="exemplo">Exemplo :</h3>
+<pre><code>9,11,121,252,25452,11411.</code></pre>
+<p>Pedrinho quer saber qual omaior palindromo formadopelo produto de 2 numerosde N digitos. AjudePedrinho nessa missão.</p>
+<h2 id="ação">Ação</h2>
+<p>Dado dois inteiros N e M, retornar os M maiores palindromos formados pelo produto de dois numeros de N digitos.</p>
 <h3 id="entrada">Entrada:</h3>
-<ul>
-<li>hora, minuto, dia, mês e ano, um por linha.</li>
-</ul>
-<h3 id="saída">Saída:</h3>
-<ul>
-<li>hh:mm dd/mm/aa, sendo hora de 0 a 11.</li>
-</ul>
+<p>2 Inteiros N,M.</p>
+<h3 id="saida">Saida:</h3>
+<p>Os M maiores palindromos formados pelo produto de dois numeros cuja quantidade de digitos é N.</p>
 <h2 id="exemplos">Exemplos</h2>
-<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 01
-4
-12
-12
-3
-1988
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2 3
 ========
-04:12 12/03/88
+9009
+8448
+8118
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 
-&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 02
-14
-7
-7
-9
-2005
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2 5
 ========
-02:07 07/09/05
+9009
+8448
+8118
+8008
+7227
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 
-&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 03
-24
-1
-1
-1
-2076
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3 5
 ========
-00:01 01/01/76
-&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
-<h2 id="ajuda">Ajuda</h2>
-<p>Em C você pode imprimir zeros à esquerda informando quantas casas decimais você deseja obter na parte inteira.</p>
-<p>O comando printf(“%03d”, value) imprime a variável value e se ela menos de 3 dígitos, completa com zeros à esquerda.</p>
-<p>Você pode usar o operador de módulo para quebrar a parte da informação de você precisa para pegar apenas a hora ou a dezena e unidade do ano.</p>
-<hr />
+906609
+888888
+886688
+861168
+855558
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4 5
+========
+99000099
+98344389
+98100189
+97200279
+96300369
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+</code></pre>
 </body>
 </html>
