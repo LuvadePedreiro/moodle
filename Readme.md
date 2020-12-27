@@ -60,9 +60,9 @@
 - [@023 L3 - Jokenpo das tartarugas!](base/023)  [](#seleção)
 - [@036 L3 - Morre o do meio](base/036)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033)  [](#seleção)
-- [@041 L3 - Rufus e Par ou Ímpar!](base/041)  [](#seleção)
 - [@042 L3 - Rufus e Par ou Ímpar!](base/042)  [](#seleção)
 - [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001)  [](#seleção)
+
 
 ## repetição
 - [@056 L1 - Calça Zeze de Camargo - Mínimo](base/056)  [](#repetição)
@@ -79,6 +79,9 @@
 - [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136)  [](#repetição)
 - [@016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
 - [@047 L2 - Ônibus lotado](base/047)  [](#repetição)
+- [@137 L2 - Fatoracao](base/137)  [](#repeticao #math)
+- [@138 L3 - Permutação](base/138)  [](#repeticao)
+- [@160 L3 - Somátorio de Fibonacci](base/160)  [](#repetição #math)
 - [@051 L3 - Arremesso de pedra na lua](base/051)  [](#repetição)
 - [@063 L3 - Blackjack 21!](base/063)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064)  [](#repetição)
@@ -88,7 +91,7 @@
 - [@054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059)  [](#repetição)
 - [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065)  [](#repetição)
-- [@066 L3 - Spok Palíndromo](base/066)  [](#repetição)
+- [@066 L2 - Spok Palíndromo](base/066)  [](#repetição)
 - [@158 L3 - Trilhas - OBI 2005](base/158)  [](#repetição)
 - [@161 L3 - Vivo ou Morto - OBI 2005](base/161)  [](#repetição)
 - [@189 L3 - Fatores de um número](base/189)  [](#repetição)
@@ -150,6 +153,7 @@
 - [@181 L2 - Somando numeros](base/181)  [](#strings)
 - [@106 L2 - Valdiskley e a cifra V2!](base/106)  [](#strings)
 - [@094 L2 - Vogais e Consoantes](base/094)  [](#strings)
+- [@163 L3 - Permutação Lexograficamente Final de Fichas](base/163)  [](#string)
 - [@127 L3 - Amo a Amora meu Amor](base/127)  [](#strings)
 - [@118 L3 - Aniquilando Ultrons V3](base/118)  [](#strings)
 - [@124 L3 - Conversa de Traficantes](base/124)  [](#strings)
@@ -176,6 +180,8 @@
 - [@107 L3 - Valdiskley e a Cifra v3!](base/107)  [](#strings)
 - [@105 L3 - Valdiskley e cifras históricas!](base/105)  [](#strings)
 - [@162 L3 - Mini-Poker - OBI2005](base/162) 
+- [@041 L3 - Criptografia](base/041)  [](#string)
+
 
 ## matrizes
 - [@130 L2 - Bingo!](base/130)  [](#matrizes)
@@ -197,6 +203,7 @@
 ## funções
 
 - [@009 L2 - Imprimir vetor formatado](base/009)  [](#funções)
+- [@139 L4 - A Porta Matemática](base/139)  [](#funcoes)
 
 ## ponteiros
 
