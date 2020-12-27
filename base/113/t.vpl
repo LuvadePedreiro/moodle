@@ -1,0 +1,39 @@
+case=
+input=e
+output="1
+ec
+0
+"
+grade reduction=100%
+
+case=
+input=d
+output="0
+d
+0
+"
+grade reduction=100%
+
+case=
+input=Aga
+output="15
+Agaa
+12
+"
+grade reduction=100%
+
+case=
+input=Rufus
+output="33
+Rufusu
+0
+"
+grade reduction=100%
+
+case=
+input=Ariates
+output="13
+Ariatesa
+10
+"
+grade reduction=100%
