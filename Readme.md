@@ -31,6 +31,7 @@
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002)  [](#operações)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005)  [](#operações)
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004)  [](#operações)
+- [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192) 
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006)  [](#operações)
 
 ## 02. Seleção I
