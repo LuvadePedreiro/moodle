@@ -63,10 +63,11 @@
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019)  [](#seleção)
 - [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017)  [](#seleção)
 - [@014 L2 - Quantos são iguais? (Contando Repetidos)](base/014)  [](#seleção)
-- [@029 L2 - Quiz do Harry Potter](base/029)  [](#seleção)
+- [@194 Nota cortada OBI 2019 F1P1](base/194) 
 
 ## 04. Seleção Extra
 
+- [@029 L2 - Quiz do Harry Potter](base/029)  [](#seleção)
 - [@020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043)  [](#seleção)
 - [@040 L3 - Está Trabalhando ou Não!](base/040)  [](#seleção)
