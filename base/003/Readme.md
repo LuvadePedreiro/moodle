@@ -1,6 +1,6 @@
 ## #operações L2 - Opala bebedor - Cálculo de desempenho do motor
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/003/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/003/__capa.jpg)
 
 ## Ação
 

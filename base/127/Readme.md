@@ -1,7 +1,7 @@
 ## #strings L3 - Amo a Amora meu Amor
 ### Contar Substrings
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/127/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/127/__capa.jpg)
 
 ## Motivação
 

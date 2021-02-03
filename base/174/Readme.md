@@ -1,7 +1,7 @@
 ## #strings L1 - Valdiskey e a cifra V1!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/174/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/174/__capa.jpg)
 
 ## Motivação
 

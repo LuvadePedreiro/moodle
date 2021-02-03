@@ -1,7 +1,7 @@
 ## #strings L2 - Gagueira V1 - Duplicar Palavras
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/097/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/097/__capa.jpg)
 
 ## Motivação
 

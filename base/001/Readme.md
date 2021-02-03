@@ -1,7 +1,7 @@
 ## #seleção L3 - Sai fora Bhaskara (Cálculo de raízes)
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/001/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/001/__capa.jpg)
 
 ## Motivação
 

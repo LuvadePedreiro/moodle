@@ -1,7 +1,7 @@
 ## #vetores L3 - As unhas de Luiza - Vetor para inteiro
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/082/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/082/__capa.jpg)
 
 ## Motivação
 

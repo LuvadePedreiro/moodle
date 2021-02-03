@@ -1,7 +1,7 @@
 ## #strings L3 - Letras Ordenadas
 ### OBI 2015 - Fase 2 - Nível 1
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/152/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/152/__capa.jpg)
 
 ## Motivação
 

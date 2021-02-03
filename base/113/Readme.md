@@ -1,7 +1,7 @@
 ## #strings L3 - Eribelton e a Ascologia V3
 ### Busca do mínimo
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/113/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/113/__capa.jpg)
 
 ## Ação
 

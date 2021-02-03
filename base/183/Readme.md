@@ -1,7 +1,7 @@
 ## #seleção L2 - Criança, Adulto, Idoso, Múmia
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/183/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/183/__capa.jpg)
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 

@@ -1,7 +1,7 @@
 ## #repetição L2 - Jogo da Concentração
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/046/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/046/__capa.jpg)
 
 ## Motivação
 

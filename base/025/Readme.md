@@ -1,7 +1,7 @@
 ## #seleção L1 - Ambos Divisíveis
 ### Módulo e operadores lógicos
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/025/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/025/__capa.jpg)
 
 ## Motivação
 

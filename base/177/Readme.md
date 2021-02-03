@@ -1,7 +1,7 @@
 ## #strings L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/177/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/177/__capa.jpg)
 
 ## Motivação
 

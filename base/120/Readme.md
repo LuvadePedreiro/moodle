@@ -1,7 +1,7 @@
 ## #strings L3 - Gansos Gamados
 ### Verificar ordenação da frase
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/120/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/120/__capa.jpg)
 
 ## Motivação
 

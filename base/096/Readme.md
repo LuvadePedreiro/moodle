@@ -1,7 +1,7 @@
 ## #strings L2 - Contar Leds
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/096/__capa.jpg)
 
 ## Motivação
 
@@ -11,7 +11,7 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
 
 Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/__leds.png)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/096/__leds.png)
 
 ### Entrada
 

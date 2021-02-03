@@ -1,7 +1,7 @@
 ## #matrizes L2 - Quadrado Mágico
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/134/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/134/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #repetição L3 - Conta Dígitos
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/064/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/064/__capa.jpg)
 
 ## Motivação
 

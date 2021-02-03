@@ -1,7 +1,7 @@
 ## #seleção L2 - Bolada na fuça
 
 
-![Resultado de imagem para haikyuu](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/032/__capa.jpg)
+![Resultado de imagem para haikyuu](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/032/__capa.jpg)
 
 ## Motivação
 

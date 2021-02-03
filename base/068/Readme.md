@@ -1,7 +1,7 @@
 ## #vetores L2 - Organizando a fila do RU
 ### Separar Pares e Ímpares
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/068/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/068/__capa.jpg)
 
 ## Motivação
 

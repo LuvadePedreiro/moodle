@@ -1,7 +1,7 @@
 ## #strings L2 - Somando numeros
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/181/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/181/__capa.jpg)
 
 ## Ação
 

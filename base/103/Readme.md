@@ -1,7 +1,7 @@
 ## #strings L3 - Separe Pneumatocito - Separação de Palavras!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/103/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/103/__capa.jpg)
 
 ## Motivação
 

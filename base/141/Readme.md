@@ -1,7 +1,7 @@
 ## #recursão L2 - Números de Fibonacci
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/141/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/141/__capa.jpg)
 
 ## Motivação
 

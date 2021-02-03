@@ -1,7 +1,7 @@
 ## #vetores L2 - Jogo do Avesso
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/078/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/078/__capa.jpg)
 
 ## Motivação
 

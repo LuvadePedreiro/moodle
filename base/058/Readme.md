@@ -1,7 +1,7 @@
 ## #repetição L2 - Busca Intervalada
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/058/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/058/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #strings L3 - Conversa de Traficantes
 ### Substituições de substrings
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/124/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/124/__capa.jpg)
 
 ## Motivação
 

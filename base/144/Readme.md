@@ -1,7 +1,7 @@
 ## #ponteiros L2 - Função que retorna vários valores por referência
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/144/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/144/__capa.jpg)
 
 ## Motivação
 

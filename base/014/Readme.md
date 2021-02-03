@@ -1,7 +1,7 @@
 ## #seleção L2 - Quantos são iguais? (Contando Repetidos)
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/014/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/014/__capa.jpg)
 
 ## Motivação
 

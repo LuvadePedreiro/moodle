@@ -1,7 +1,7 @@
 ## #repetição L3 - Sapinho 3 matemático não morrendo no poço
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/065/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/065/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L2 - Queda de dominós
 
   
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/067/__capa.jpg)
 
 ## Motivação
 
@@ -52,7 +52,7 @@ ok
 
 #### Dica
 
-Um vetor ![](__vetor.jpg) está ordenado de forma crescente se ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__condicao.jpg).
+Um vetor ![](__vetor.jpg) está ordenado de forma crescente se ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/067/__condicao.jpg).
 Para todo elemento na posição **\[** **i \] **temos que ele é menor que o elemento na posição posterior** \[** **i +1\]** . Ou seja, caso um elemento na posição **\[ i \]** seja maior que seu vizinho da frente ( posição **\[** **i +1\]** ) o vetor não é ordenado.
 
 #### Pseudocódigo

@@ -1,7 +1,7 @@
 ## #strings L2 - Avestruz com Alcaparras
 ### Contar Maiusculas e Minusculas!
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/095/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/095/__capa.jpg)
 
 ## Motivação
 

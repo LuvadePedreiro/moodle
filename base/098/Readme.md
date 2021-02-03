@@ -1,7 +1,7 @@
 ## #strings L3 - Jason e Krueguer
 ### Busca de maior ocorrencia
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/098/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/098/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #repetição L2 - Trilhas - OBI 2005 - (Modo Easy)
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/136/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/136/__capa.jpg)
 
 ## Motivação
 

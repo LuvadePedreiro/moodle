@@ -1,7 +1,7 @@
 ## #strings L3 - Identificando elementos
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/108/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/108/__capa.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## #repetição L1 - Ultrons - Contar Elemento
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/055/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/055/__capa.jpg)
 
 ## Motivação
 

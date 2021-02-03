@@ -1,7 +1,7 @@
 ## #seleção L2 - Adedonha na Califórnia
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/027/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/027/__capa.jpg)
 
 ## Motivação
 

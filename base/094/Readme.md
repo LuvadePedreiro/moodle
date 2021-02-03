@@ -1,7 +1,7 @@
 ## #strings L2 - Vogais e Consoantes
 ### Identificação e Montagem
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/094/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/094/__capa.jpg)
 
 ## Motivação
 

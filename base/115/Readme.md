@@ -1,7 +1,7 @@
 ## #strings L3 - Máquina de Datilografar Quebrada
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/115/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/115/__capa.jpg)
 
 ## Motivação
 

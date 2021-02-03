@@ -1,7 +1,7 @@
 ## #seleção L2 - Fiquei de final
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/031/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/031/__capa.jpg)
 
 ## Descrição
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.

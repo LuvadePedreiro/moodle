@@ -1,7 +1,7 @@
 ## #strings L3 - Jack Sparrow e o Beijinho
 ### Alternar Case
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/178/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/178/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #seleção L3 - Frota de Táxi - OBI 2005
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/157/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/157/__capa.jpg)
 
 ## Motivação
 

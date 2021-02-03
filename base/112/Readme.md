@@ -1,7 +1,7 @@
 ## #strings L3 - Rocicleia e o Locioreca - Anagramas!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/112/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/112/__capa.jpg)
 
 ## Motivação
 

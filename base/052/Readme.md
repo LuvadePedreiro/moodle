@@ -1,7 +1,7 @@
 ## #repetição L3 - Hoje tem sopa de coelho?
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/052/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/052/__capa.jpg)
 
 ## Motivação
 
@@ -14,7 +14,7 @@ Estudando um pouco ele descobriu uma regra interessante criado por Leonardo de P
 3\. Não há problemas genéticos no cruzamento consanguíneo;
 4\. Todos os meses, cada casal dá à luz a um novo casal;
 
-![Sopa](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/052/__sopa.jpg)
+![Sopa](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/052/__sopa.jpg)
 
 Por incrível que pareça, essas regras geram a seguinte sucessão de números: 1, 1, 2, 3, 5, 8, 13, ...
 

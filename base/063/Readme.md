@@ -1,7 +1,7 @@
 ## #repetição L3 - Blackjack 21!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/063/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/063/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #recursão L3 - Torres de Hanoi
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/146/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/146/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #strings L3 - MeU WoRd QuEbRoU
 ### Formatação de Case
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/114/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/114/__capa.jpg)
 
 ## Motivação
 

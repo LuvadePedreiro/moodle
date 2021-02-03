@@ -1,7 +1,7 @@
 ## #strings L2 - Valdiskley e a cifra V2!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/106/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/106/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #matrizes L2 - Soma de elementos de em uma matriz
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/128/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/128/__capa.jpg)
 
 ## Motivação
 

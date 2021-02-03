@@ -1,7 +1,7 @@
 ## #ponteiros L1 - Troca de valores de variáveis
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/143/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/143/__capa.jpg)
 
 ## Ação
 

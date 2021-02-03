@@ -1,7 +1,7 @@
 ## L3 - Motivando a turma de secundaristas
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/184/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/184/__capa.jpg)
 
 Cuidado: Baseado em fatos reais!
 

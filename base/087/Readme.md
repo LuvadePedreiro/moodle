@@ -1,7 +1,7 @@
 ## #vetores L3 - Zoológico Entrando na Arca de Noé
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/087/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/087/__capa.jpg)
 
 ## Motivação
 

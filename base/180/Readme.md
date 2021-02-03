@@ -1,7 +1,7 @@
 ## #strings L2 - Guerra Civil no Universo Marvel
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/180/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/180/__capa.jpg)
 
 ## Motivação
 

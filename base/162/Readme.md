@@ -1,7 +1,7 @@
 ## L3 - Mini-Poker - OBI2005
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/162/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/162/__capa.jpg)
 
 ## Motivação
 

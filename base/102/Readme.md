@@ -1,7 +1,7 @@
 ## #strings L3 - Meu cachorro comeu minha tarefa V2
 ### Retirar espaços duplicados
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/102/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/102/__capa.jpg)
 
 ## Motivação
 

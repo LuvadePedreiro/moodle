@@ -1,6 +1,6 @@
 ## L3 - #repetição Somatório de Fibonacci
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/160/capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/160/capa.png)
 
 ## Motivação
 

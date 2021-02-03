@@ -1,7 +1,7 @@
 ## #matrizes L2 - Deu a louca no Imperador!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/012/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/012/__capa.jpg)
 
 ## Motivação
 

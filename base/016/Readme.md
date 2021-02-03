@@ -1,7 +1,7 @@
 ## #repetição L2 - Volta de 360 graus (Retirando os loops)
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/016/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/016/__capa.jpg)
 
 ## Motivação
 
@@ -17,7 +17,7 @@ Aline: Descobri que era do meu pai.
 
 ## Ação
 
-![angulos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/016/__angulos.png)
+![angulos](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/016/__angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.
 

@@ -1,7 +1,7 @@
 ## #vetores L3 - Batida Policial - Ordenando vetores
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/073/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/073/__capa.jpg)
 
 ## Motivação
 

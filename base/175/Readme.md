@@ -1,7 +1,7 @@
 ## #strings L3 - Separando a partir de tokens
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/175/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/175/__capa.jpg)
 
 ## Ação
 

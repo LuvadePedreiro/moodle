@@ -1,7 +1,7 @@
 ## #repetição L3 - Vivo ou Morto - OBI 2005
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/161/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/161/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #recursão L2 - Contando caracteres recursivamente
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/145/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/145/__capa.jpg)
 
 ## Ação
 

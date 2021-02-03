@@ -1,6 +1,6 @@
 ## #vetores L2 - Processando uma linha de inteiros
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/186/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/186/__capa.jpg)
 
 Você não precisa saber o tamanho do vetor quando for ler uma linha com dados. Em python o comando `input().split(" ")` já retorna o vetor dividido. Em `c`e `c++` você tem algumas formas de fazer isso.
 

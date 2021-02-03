@@ -1,7 +1,7 @@
 ## #strings L2 - Organizando Ru - Homens e Mulheres!
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/110/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/110/__capa.jpg)
 
 ## Motivação
 

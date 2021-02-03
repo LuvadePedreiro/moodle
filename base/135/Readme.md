@@ -1,7 +1,7 @@
 ## #matrizes L3 - Jogo da vida
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/135/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/135/__capa.jpg)
 
 ## Motivação
 
