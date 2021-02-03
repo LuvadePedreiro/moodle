@@ -1,7 +1,7 @@
 ## #structs L1 - Operações
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/149/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #strings L3 - Prof Muquirana - Busca máximo por critério
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/179/__capa.jpg)
 
 ## Motivação
 

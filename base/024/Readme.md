@@ -1,7 +1,7 @@
 ## #seleção L1 - Divisão Inteira e Quebrada
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/024/__capa.jpg)
 
 ## Motivação
 

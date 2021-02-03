@@ -1,7 +1,7 @@
 ## #seleção L3 - Está Trabalhando ou Não!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/040/__capa.jpg)
 
 ## Motivação
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de

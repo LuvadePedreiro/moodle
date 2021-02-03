@@ -2,7 +2,7 @@
 
 ### Fatore um numero
 
-![](capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/137/capa.png)
 
 Motivação
 ---------

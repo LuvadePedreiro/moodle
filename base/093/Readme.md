@@ -1,7 +1,7 @@
 ## #strings L2 - Gritando em Caixa Alta
 ### Invertendo o Case da frase!
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/093/__capa.jpg)
 
 ## Motivação
 

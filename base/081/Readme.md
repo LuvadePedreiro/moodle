@@ -1,7 +1,7 @@
 ## #vetores L3 - Loucura de Marquinhos - Decompor um inteiro
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/081/__capa.jpg)
 
 ## Motivação
 

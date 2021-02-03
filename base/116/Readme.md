@@ -1,7 +1,7 @@
 ## #strings L3 - Roda Roda Jequiti
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/116/__capa.jpg)
 
 ## Motivação
 

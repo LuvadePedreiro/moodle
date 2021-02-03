@@ -1,7 +1,7 @@
 ## #strings L3 - Francês é Fresco
 ### Juntar palavras
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/099/__capa.jpg)
 
 ## Motivação
 

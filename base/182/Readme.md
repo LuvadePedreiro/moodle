@@ -1,7 +1,7 @@
 ## #structs L3 - Mulher mais idosa
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/182/__capa.jpg)
 
 ## Ação
 

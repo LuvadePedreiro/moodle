@@ -1,7 +1,7 @@
 ## #seleção L2 - OBI 2017 - Fase 1 - Drone de Entrega
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/035/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #seleção L3 - Morre o do meio
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/036/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #ponteiros L2 - Vetor de strings com variados tamanhos
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/142/__capa.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## #strings L3 - Identificando Ultrons V2
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/117/__capa.jpg)
 
 ## Motivação
 

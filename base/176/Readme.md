@@ -1,7 +1,7 @@
 ## #strings L1 - Substring na decoração - Obter Substrings!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/176/__capa.jpg)
 
 ## Motivação
 

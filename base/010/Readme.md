@@ -1,7 +1,7 @@
 ## #vetores L3 - Bolinhas viciadas(contagem de repetições)
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/010/__capa.jpg)
 
 ## Motivação
 

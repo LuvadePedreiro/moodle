@@ -1,7 +1,7 @@
 ## #vetores L2 - Capoeira invertendo vetor!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/061/__capa.jpg)
 
 ## Motivação
 

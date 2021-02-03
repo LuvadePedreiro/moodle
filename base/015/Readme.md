@@ -1,7 +1,7 @@
 ## #seleção L1 - Calculadora Numérica
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/015/__capa.jpg)
 
 ### Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L1 - Joelison Fernandes - Soma do maior e menor!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/060/__capa.jpg)
 
 ## Motivação
 

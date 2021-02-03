@@ -1,5 +1,5 @@
 ## #repetição L2 - Fatores de um número
-![](figura.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/189/figura.jpg)
 
 ## Ação
 Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na fatoração.

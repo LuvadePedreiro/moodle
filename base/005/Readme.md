@@ -1,6 +1,6 @@
 ## #operações L3 - Ladrão de Goiabas - Contando viagens usando módulo
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/005/__capa.jpg)
 
 ## Motivação
 

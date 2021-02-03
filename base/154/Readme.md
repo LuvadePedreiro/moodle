@@ -1,7 +1,7 @@
 ## #matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/154/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L3 - Zoológico Um animal de cada tipo!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/084/__capa.jpg)
 
 ## Motivação
 

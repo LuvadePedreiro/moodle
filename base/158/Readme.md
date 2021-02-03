@@ -1,7 +1,7 @@
 ## #repetição L3 - Trilhas - OBI 2005
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/158/__capa.jpg)
 
 ## Motivação
 

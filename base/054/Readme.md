@@ -1,7 +1,7 @@
 ## #repetição L3 - Quebrador de Copos
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/054/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L3 - Mário e o Assassin's Creed - Parkour
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/071/__capa.jpg)
 
 ## Motivação
 

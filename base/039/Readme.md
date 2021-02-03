@@ -1,7 +1,7 @@
 ## #seleção L2 - Mercantil V2 - Maior ou Menor
 
 
-![Silvio Santos](__capa.jpg)
+![Silvio Santos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/039/__capa.jpg)
 
 ## Descrição
 

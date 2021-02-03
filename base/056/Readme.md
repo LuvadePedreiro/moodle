@@ -1,7 +1,7 @@
 ## #repetição L1 - Calça apertada - Mínimo
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/056/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #seleção L2 - A hora do próximo segundo
 
 
-![ponteiros de um relógio](__capa.jpg)
+![ponteiros de um relógio](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/038/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #repetição L1 - Zero é par - Somatório de Pares!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/045/__capa.jpg)
 
 ## Motivação
 

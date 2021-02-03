@@ -1,7 +1,7 @@
 ## #funcoes L4 - A Porta Matemática
 
 
-![](capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/139/capa.png)
 
 Motivação
 ---------

@@ -1,7 +1,7 @@
 ## #repetição L2 - Ônibus lotado
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/047/__capa.jpg)
 
 ## Motivação:
 

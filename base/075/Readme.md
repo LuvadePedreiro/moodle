@@ -1,7 +1,7 @@
 ## #vetores L3 - Abastecimento de água
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/075/__capa.jpg)
 
 ## Motivação
 

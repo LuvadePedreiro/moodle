@@ -1,6 +1,6 @@
 ## #operações L1 - Formatando data - Casas decimais e operador de módulo
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/011/__capa.jpg)
 
 ## Motivação
 

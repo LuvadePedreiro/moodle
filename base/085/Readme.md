@@ -1,7 +1,7 @@
 ## #vetores L3 - Exército - Perto da morte
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/__capa.jpg)
 
 ## Motivação
 

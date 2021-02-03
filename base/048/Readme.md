@@ -1,7 +1,7 @@
 ## #repetição L2 - Cabo de Guerra Jedi
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/048/__capa.jpg)
 
 ## Motivação
 

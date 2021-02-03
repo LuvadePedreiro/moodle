@@ -1,7 +1,7 @@
 ## #strings L3 - Nao se bububula - Gagueira V2!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/122/__capa.jpg)
 
 ## Motivação
 

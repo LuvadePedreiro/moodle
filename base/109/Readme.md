@@ -1,7 +1,7 @@
 ## #strings L2 - Eribelton e a Ascologia V2
 ### Buscando a perfeição
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/109/__capa.jpg)
 
 ## Motivação
 

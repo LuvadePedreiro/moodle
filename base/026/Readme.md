@@ -1,7 +1,7 @@
 ## #seleção L1 - Positivo, Nulo ou Negativo?
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/026/__capa.jpg)
 
 ## Motivação
 

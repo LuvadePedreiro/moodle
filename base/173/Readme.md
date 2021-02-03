@@ -1,7 +1,7 @@
 ## #strings L1 - Eribelton e a Ascologia V1 - Somar Asc
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/173/__capa.jpg)
 
 ## Motivação
 

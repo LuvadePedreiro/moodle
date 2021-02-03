@@ -1,7 +1,7 @@
 ## #vetores L3 - Jogando pião na rodinha
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/__capa.jpg)
 
 ## Motivação
 

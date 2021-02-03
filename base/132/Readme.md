@@ -1,7 +1,7 @@
 ## #matrizes L2 - Subdiagonais
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/132/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L2 - Primo
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/090/__capa.jpg)
 
 ## Ação
 

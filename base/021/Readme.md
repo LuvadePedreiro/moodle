@@ -1,7 +1,7 @@
 ## #seleção L2 - Aumento de Salário
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/021/__capa.jpg)
 
 ## Motivação
 

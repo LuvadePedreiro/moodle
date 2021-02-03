@@ -1,7 +1,7 @@
 ## #vetores L3 - Força Bruta (Gerando próxima combinação)
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/008/__capa.jpg)
 
 ## Motivação
 

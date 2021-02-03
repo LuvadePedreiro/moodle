@@ -1,7 +1,7 @@
 ## #strings L3 - Sorvete suor casaca chicletes - Letras em Comum!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/123/__capa.jpg)
 
 ## Motivação
 

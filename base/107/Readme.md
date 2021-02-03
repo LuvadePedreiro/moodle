@@ -1,7 +1,7 @@
 ## #strings L3 - Valdiskley e a Cifra v3!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/107/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #recursão L3 - Contando caracteres recursivamente
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/140/__capa.jpg)
 
 ## Ação
 

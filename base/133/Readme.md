@@ -1,7 +1,7 @@
 ## #matrizes L2 - Soldados em Posição
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/133/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #strings L2 - Numerão Divisível por 11
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/125/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #seleção L1 - Angulo Cartesiano
 ### Retirando loops
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__capa.jpg)
 
 ## Motivação
 
@@ -15,7 +15,7 @@ Aline: Descobri que era do meu pai.
 
 ## Ação
 
-![](__angulos.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.  
   

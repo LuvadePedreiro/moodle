@@ -1,7 +1,7 @@
 ## #seleção L3 - Professor Bonzinho
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/033/__capa.jpg)
 
 ## Motivação
 

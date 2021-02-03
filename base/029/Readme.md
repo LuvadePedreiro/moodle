@@ -1,7 +1,7 @@
 ## #seleção L2 - Quiz do Harry Potter
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/029/__capa.jpg)
 
 ## Descrição
 

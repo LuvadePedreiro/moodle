@@ -1,7 +1,7 @@
 ## #seleção L2 - Arrendondar
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/018/__capa.jpg)
 
 ## Motivação
 

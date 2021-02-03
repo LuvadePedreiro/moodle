@@ -1,7 +1,7 @@
 ## #strings L2 - Crushômetro
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/126/__capa.jpg)
 
 ## Motivação
 

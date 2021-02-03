@@ -1,7 +1,7 @@
 ## #strings L1 - Maiúsculo, Minusculo e Dígito!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/104/__capa.jpg)
 
 ## Motivação
 

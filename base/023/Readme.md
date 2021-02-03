@@ -1,7 +1,7 @@
 ## #seleção L3 - Jokenpo das tartarugas!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/023/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L2 - Soldados Pequenos e Grandes!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/072/__capa.jpg)
 
 ## Motivação
 

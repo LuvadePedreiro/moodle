@@ -1,7 +1,7 @@
 ## #matrizes L2 - Bingo!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/130/__capa.jpg)
 
 ## Motivação
 

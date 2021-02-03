@@ -2,7 +2,7 @@
 
 Verifique se um número é permutação de outro
 
-![](capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/138/capa.png)
 
 ### Motivação
 

@@ -1,7 +1,7 @@
 ## #vetores L3 - Cabeças vão rolar
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/070/__capa.jpg)
 
 ## Motivação
 

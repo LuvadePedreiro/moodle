@@ -1,7 +1,7 @@
 ## #matrizes L2 - Matriz Simétrica
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/131/__capa.jpg)
 
 ## Motivação
 

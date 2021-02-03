@@ -1,7 +1,7 @@
 ## #vetores L2 - MMC
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/091/__capa.jpg)
 
 ## Ação
 

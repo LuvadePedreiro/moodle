@@ -1,7 +1,7 @@
 ## #vetores L3 - Mercantil V3 - Muitas rodadas
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/077/__capa.jpg)
 
 ## Motivação
 

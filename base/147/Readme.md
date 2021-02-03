@@ -1,7 +1,7 @@
 ## #ponteiros L1 - Duelo
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/147/__capa.jpg)
 
 ## Motivação
 

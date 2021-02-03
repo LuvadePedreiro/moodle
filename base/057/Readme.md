@@ -1,7 +1,7 @@
 ## #repetição L2 - Revolta em Portugal
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/057/__capa.jpg)
 
 ## Motivação
 

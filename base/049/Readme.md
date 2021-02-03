@@ -1,7 +1,7 @@
 ## #repetição L2 - Sapinho 1 no Poço
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/049/__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## #matrizes L3 - Tetris (Fazendo a peça cair)
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/007/__capa.jpg)
 
 ## Motivação
 

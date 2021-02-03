@@ -1,7 +1,7 @@
 ## #matrizes L2 - Soma de matrizes
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/150/__capa.jpg)
 
 ## Ação
 

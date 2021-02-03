@@ -1,7 +1,7 @@
 ## #vetores L3 - Coleção de Tazos - Quantos se repetem mais
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/086/__capa.jpg)
 
 ## Motivação
 

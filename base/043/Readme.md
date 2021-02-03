@@ -1,7 +1,7 @@
 ## #seleção L3 - Dorme Tarde Acordar Cedo!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/043/__capa.jpg)
 
 ## Motivação
 

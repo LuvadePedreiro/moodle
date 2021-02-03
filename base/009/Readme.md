@@ -1,6 +1,6 @@
 ## #funções L2 - Imprimir vetor formatado
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/009/__capa.jpg)
 
 Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 

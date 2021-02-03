@@ -1,7 +1,7 @@
 ## #repetição L1 - Dividindo pares de sapatos pra três
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/013/__capa.jpg)
 
 ## Motivação
 

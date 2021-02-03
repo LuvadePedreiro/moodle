@@ -1,6 +1,6 @@
 ## #operações L3 - Zerinho ou um americano - Decifrando a fórmula
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/006/__capa.jpg)
 
 ## Motivação
 

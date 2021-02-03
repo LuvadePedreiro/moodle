@@ -1,7 +1,7 @@
 ## #strings L3 - Aniquilando Ultrons V3
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/118/__capa.jpg)
 
 ## Ação
 

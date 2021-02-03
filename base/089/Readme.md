@@ -1,7 +1,7 @@
 ## #strings L2 - Mega Jokenpo!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/089/__capa.jpg)
 
 ## Motivação
 

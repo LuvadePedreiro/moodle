@@ -1,7 +1,7 @@
 ## #vetores L2 - Mostrar mão de cartas
 ### Imprimir vetor formatado
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/101/__capa.jpg)
 
 ## Ação
 

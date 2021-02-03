@@ -1,7 +1,7 @@
 ## #vetores L3 - Zoo quantas especies!
 
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/069/__capa.jpg)
 
 ## Motivação
 

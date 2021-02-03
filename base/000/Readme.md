@@ -1,6 +1,6 @@
 ## #operações L1 - Operações básicas - Imprimindo float formatado
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/000/__capa.jpg)
 
 ## Ação
 
