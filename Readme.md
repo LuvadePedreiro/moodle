@@ -26,11 +26,12 @@
 
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000)  [](#operações)
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003)  [](#operações)
+- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011)  [](#operações)
 - [@196 L2 - Comprando TV parcelado](base/196) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195) 
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002)  [](#operações)
-- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011)  [](#operações)
+- [@018 L2 - Arrendondar](base/018)  [](#seleção)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005)  [](#operações)
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004)  [](#operações)
 - [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192) 
@@ -48,7 +49,6 @@
 - [@026 L1 - Positivo, Nulo ou Negativo?](base/026)  [](#seleção)
 - [@038 L2 - A hora do próximo segundo](base/038)  [](#seleção)
 - [@027 L2 - Adedonha na Califórnia](base/027)  [](#seleção)
-- [@018 L2 - Arrendondar](base/018)  [](#seleção)
 - [@021 L2 - Aumento de Salário](base/021)  [](#seleção)
 
 ## 03. Seleção II
