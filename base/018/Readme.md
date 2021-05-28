@@ -1,4 +1,4 @@
-## #seleção L2 - Arrendondar
+## L2 - Arrendondar
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/018/__capa.jpg)
