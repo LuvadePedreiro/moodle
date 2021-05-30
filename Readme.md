@@ -2,6 +2,8 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
+    - [Tutoriais](#tutoriais)
+    - [Questões](#questões)
 - [02. Seleção I](#02-seleção-i)
 - [03. Seleção II](#03-seleção-ii)
 - [04. Seleção Extra](#04-seleção-extra)
@@ -22,11 +24,16 @@
 - [19. Recursão](#19-recursão)
 - [20. Structs](#20-structs)
 <!--TOC_END-->
+
+
 ## 01. Operações
 
+### Tutoriais
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000)  [](#operações)
-- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003)  [](#operações)
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011)  [](#operações)
+### Questões
+
+- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003)  [](#operações)
 - [@018 L2 - Arrendondar](base/018) 
 - [@196 L2 - Comprando TV parcelado](base/196) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
