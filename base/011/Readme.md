@@ -46,13 +46,13 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 <<<<<<<<
 
 >>>>>>>>
-24
+23
 1
 1
 1
 2076
 ========
-00:01 01/01/76
+11:01 01/01/76
 <<<<<<<<
 ```
 
