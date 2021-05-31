@@ -34,7 +34,7 @@
 ### Questões
 
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003)  [](#operações)
-- [@018 L2 - Arrendondar](base/018) 
+- [@018 L2 - Arredondar](base/018) 
 - [@196 L2 - Comprando TV parcelado](base/196) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195) 

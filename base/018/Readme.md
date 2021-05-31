@@ -1,15 +1,15 @@
-## L2 - Arrendondar
+## L2 - Arredondar
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/018/__capa.jpg)
 
 ## Motivação
 
-Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos .
+Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos.
 
 ## Ação
 
-Faça as funções round, ceil e floor. Todas recebem um float e retornam um inteiro. Ceil sempre arredonda pra cima, floor sempre arredonda pra baixo. Round arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda para cima se a parte fracionaria for maior ou igual a 0.5.  
+Faça as funções round, ceil e floor. Todas recebem um float e retornam um inteiro. `ceil` sempre arredonda pra cima, `floor` sempre arredonda pra baixo e `round` arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda para cima se a parte fracionaria for maior ou igual a 0.5.  
 
 Protótipos:  
 int round(float num);
