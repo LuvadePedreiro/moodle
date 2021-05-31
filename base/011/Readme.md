@@ -68,3 +68,5 @@ Você pode usar o operador de módulo para quebrar a parte da informação de vo
 
 ---
 
+[![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/011/video.png)](https://youtu.be/8ic8dqudXPw)
+

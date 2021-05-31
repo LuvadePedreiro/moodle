@@ -74,12 +74,12 @@
 - [@194 Nota cortada OBI 2019 F1P1](base/194) 
 
 ## 04. Seleção Extra
+- [@034 L3 - Formiga da bundona](base/034)  [](#seleção)
 
 - [@029 L2 - Quiz do Harry Potter](base/029)  [](#seleção)
 - [@020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043)  [](#seleção)
 - [@040 L3 - Está Trabalhando ou Não!](base/040)  [](#seleção)
-- [@034 L3 - Formiga da bundona](base/034)  [](#seleção)
 - [@157 L3 - Frota de Táxi - OBI 2005](base/157)  [](#seleção)
 - [@037 L3 - Jokenpo 15](base/037)  [](#seleção)
 - [@023 L3 - Jokenpo das tartarugas!](base/023)  [](#seleção)
