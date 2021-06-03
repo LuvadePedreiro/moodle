@@ -84,5 +84,5 @@ se segundo == 60
         hora = hora + 1
         se hora == 24
             hora = 0
-Mostre hora, minuto e segundo com duas casas
 ```
+Mostre hora, minuto e segundo com duas casas
