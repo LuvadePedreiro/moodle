@@ -1,4 +1,4 @@
-## #strings L3 - Rocicleia e o Locioreca - Anagramas!
+## @112 #strings L3 - Rocicleia e o Locioreca - Anagramas!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/112/__capa.jpg)

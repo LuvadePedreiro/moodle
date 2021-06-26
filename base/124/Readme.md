@@ -1,4 +1,4 @@
-## #strings L3 - Conversa de Traficantes
+## @124 #strings L3 - Conversa de Traficantes
 ### Substituições de substrings
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/124/__capa.jpg)
