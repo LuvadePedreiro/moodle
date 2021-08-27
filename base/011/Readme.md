@@ -1,5 +1,5 @@
 ## @011 #operações L2 - Formatando data - Casas decimais e operador de módulo
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/011/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/011/__capa.jpg)
 
 ## Motivação
