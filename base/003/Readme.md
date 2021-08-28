@@ -1,4 +1,4 @@
-## @003 #operações L2 - Opala bebedor - Cálculo de desempenho do motor
+## @003 L2 - Opala bebedor - Cálculo de desempenho do motor
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/003/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/003/__capa.jpg)
 

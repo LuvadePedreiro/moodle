@@ -1,5 +1,5 @@
-## @006 #operações L3 - Zerinho ou um americano - Decifrando a fórmula
-
+## @006 L3 - Zerinho ou um americano - Decifrando a fórmula
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/006/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/006/__capa.jpg)
 
 ## Motivação

@@ -1,6 +1,6 @@
 ## @026 #seleção L1 - Positivo, Nulo ou Negativo?
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/026/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/026/__capa.jpg)
 
 ## Motivação

@@ -1,6 +1,6 @@
 ## @024 #seleção L1 - Divisão Inteira e Quebrada
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/024/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/024/__capa.jpg)
 
 ## Motivação

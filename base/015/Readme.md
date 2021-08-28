@@ -1,6 +1,6 @@
 ## @015 #seleção L1 - Calculadora Numérica
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/015/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/015/__capa.jpg)
 
 ### Motivação
