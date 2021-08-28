@@ -1,4 +1,4 @@
-## @022 L2 - Teleférico OBI 2017 - Fase 1
+## @022 L2 - Teleférico - OBI 2017 - Fase 1
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/022/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/022/__capa.jpg)

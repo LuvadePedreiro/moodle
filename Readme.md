@@ -49,11 +49,11 @@
 
 - Lógica
 - [@157 @157 L1 - Frota de Táxi - OBI 2005](base/157) 
-- [@156 @156 L2 - Jogo de par ou ímpar OBI 2016 - Fase1 - Nível 1](base/156) 
-- [@022 @022 L2 - Teleférico OBI 2017 - Fase 1](base/022) 
+- [@156 @156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156) 
+- [@022 @022 L2 - Teleférico - OBI 2017 - Fase 1](base/022) 
 - [@194 @194 L2 - Nota cortada - OBI 2019 F1P1](base/194) 
-- [@192 @192 L2 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192) 
-- [@014 @014 L2 - Quantos são iguais? (Contando Repetidos)](base/014)  [](#seleção)
+- [@192 @192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192) 
+- [@014 @014 L1 - Quantos são iguais? (Contando Repetidos)](base/014)  [](#seleção)
 
 - Biblioteca Math: ceil, floor, round, abs
 - [@018 @018 L2 - Arredondar](base/018) 

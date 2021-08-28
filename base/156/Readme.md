@@ -1,4 +1,4 @@
-## @156 L2 - Jogo de par ou ímpar OBI 2016 - Fase1 - Nível 1
+## @156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/156/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/156/__capa.jpg)
