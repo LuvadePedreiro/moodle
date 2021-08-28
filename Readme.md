@@ -39,12 +39,12 @@
 
 ## 02. Seleção
 - Manipulação de Ifs e Elses e Fórmulas
-- [@015 @015 L1 - Calculadora Numérica](base/015)  [](#seleção)
+- [@015 @015 L1 - Calculadora Numérica](base/015) 
 - [@155 @155 L1 - Plantação de Morangos](base/155)  [](#seleção)
 - [@151 @151 L1 - Impedido!](base/151)  [](#seleção)
-- [@026 @026 L1 - Positivo, Nulo ou Negativo?](base/026)  [](#seleção)
+- [@026 @026 L1 - Positivo, Nulo ou Negativo?](base/026) 
 - [@031 @031 L2 - Fiquei de final](base/031)  [](#seleção)
-- [@040 @040 L2 - Está Trabalhando ou Não!](base/040)  [](#seleção)
+- [@040 @040 L2 - Está Trabalhando ou Não!](base/040) 
 - [@001 @001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001)  [](#seleção)
 
 - Lógica

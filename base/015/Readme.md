@@ -1,4 +1,4 @@
-## @015 #seleção L1 - Calculadora Numérica
+## @015 L1 - Calculadora Numérica
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/015/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/015/__capa.jpg)
@@ -55,25 +55,6 @@ Observação
     char operador;
 
     scanf(" %c", &operador);
-```
-
-Pseudocódigo
-```
-Leia primeiro_numero
-Leia segundo_numero
-Leia sinal
-
-Se (sinal for igual a '+'):
-    Mostre primeiro_numero + segundo_numero
-Se (sinal for igual a '-'):
-    Mostre primeiro_numero - segundo_numero
-Se (sinal for igual a '*'):
-    Mostre primeiro_numero * segundo_numero
-
-Se (sinal for igual a '/') e (segundo_numero for igual a 0):
-    Mostre "Operacao invalida! Divisao por zero"
-Se (sinal for igual a '/') e (segundo_numero for diferente de 0):
-    Mostre primeiro_numero / segundo_numero         
 ```
 
 

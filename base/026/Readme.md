@@ -1,4 +1,4 @@
-## @026 #seleção L1 - Positivo, Nulo ou Negativo?
+## @026 L1 - Positivo, Nulo ou Negativo?
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/026/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/026/__capa.jpg)
@@ -44,18 +44,4 @@ negativo
 ========
 nulo
 <<<<<<<<
-```
-
-### Ajuda
-
-Pseudocódigo
-```
-Ler valor
-
-Se (valor for maior que 0):
-    Mostrar "positivo"
-Senao Se (valor for menor que 0):
-    Mostrar "negativo"
-Senao:
-    Mostrar "nulo"
 ```
