@@ -1,6 +1,6 @@
-## @023 #seleção L3 - Jokenpo das tartarugas!
+## @023 #seleção L2 - Jokenpo das tartarugas!
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/023/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/023/__capa.jpg)
 
 ## Motivação
@@ -48,17 +48,3 @@ jog1
 <<<<<<<<
 ```
 
-## Ajuda
-#### 1º Pseudocódigo
-```
-  Leia opção1 
-  Leia opção2
-  Se opção1 for igual a opção2
-  Mostre empate
-  Senão se (opçao1 for igual a pedra e opção2 igual a tesoura)
-  OU (opçao1 for igual a papel e opção2 igual a pedra)
-  OU (opçao1 for igual a tesoura e opção2 igual a papel)
-  Modestre jog1
-  Senão
-  Mostre jog2
-```

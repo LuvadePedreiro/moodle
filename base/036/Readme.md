@@ -1,6 +1,6 @@
 ## @036 #seleção L3 - Morre o do meio
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/036/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/036/__capa.jpg)
 
 ## Motivação

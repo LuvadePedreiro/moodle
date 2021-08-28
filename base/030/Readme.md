@@ -1,6 +1,6 @@
 ## @030 #seleção L2 - Mercantil V1 - Quem chega mais perto
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/030/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/030/__capa.jpg)
 
 ## Descrição

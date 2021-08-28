@@ -1,6 +1,6 @@
 ## @039 #seleção L2 - Mercantil V2 - Maior ou Menor
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/039/solver.c)
 ![Silvio Santos](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/039/__capa.jpg)
 
 ## Descrição

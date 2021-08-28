@@ -1,6 +1,6 @@
 ## @022 #seleção L2 - OBI 2017 - Fase 1 - Teleférico
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/022/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/022/__capa.jpg)
 
 ## Motivação
