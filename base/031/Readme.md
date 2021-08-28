@@ -1,4 +1,4 @@
-## @031 #seleção L2 - Fiquei de final
+## @031 L2 - Fiquei de final
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/031/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/031/__capa.jpg)

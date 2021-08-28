@@ -1,4 +1,4 @@
-## @151 #seleção L1 - Impedido!
+## @151 L1 - Impedido!
 ### OBI 2015 - Fase 2 - Nível 1
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/151/solver.c)
