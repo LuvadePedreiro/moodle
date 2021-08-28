@@ -44,7 +44,7 @@
 - [@151 @151 L1 - Impedido!](base/151)  [](#seleção)
 - [@026 @026 L1 - Positivo, Nulo ou Negativo?](base/026)  [](#seleção)
 - [@031 @031 L2 - Fiquei de final](base/031)  [](#seleção)
-- [@040 @040 L3 - Está Trabalhando ou Não!](base/040)  [](#seleção)
+- [@040 @040 L2 - Está Trabalhando ou Não!](base/040)  [](#seleção)
 - [@001 @001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001)  [](#seleção)
 
 - Lógica

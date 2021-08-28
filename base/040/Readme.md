@@ -1,4 +1,4 @@
-## @040 #seleção L3 - Está Trabalhando ou Não!
+## @040 #seleção L2 - Está Trabalhando ou Não!
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/040/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/040/__capa.jpg)
