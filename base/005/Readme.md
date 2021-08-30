@@ -1,4 +1,4 @@
-## @005 #operações L2 - Ladrão de Goiabas - Contando viagens usando módulo
+## @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/005/__capa.jpg)
 
