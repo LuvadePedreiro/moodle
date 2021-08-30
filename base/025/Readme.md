@@ -1,4 +1,4 @@
-## @025 #seleção L1 - Ambos Divisíveis
+## @025 L1 - Ambos Divisíveis
 ### Módulo e operadores lógicos
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/025/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/025/__capa.jpg)
