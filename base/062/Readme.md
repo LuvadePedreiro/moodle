@@ -1,4 +1,4 @@
-## @062 #seleção L1 - Angulo Cartesiano
+## @062 L1 - Angulo Cartesiano
 ### Retirando loops
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/062/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/062/__capa.jpg)

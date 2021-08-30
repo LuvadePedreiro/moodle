@@ -59,12 +59,12 @@
 - [@030 @030 L2 - Mercantil V1 - Quem chega mais perto](base/030) 
 
 - Operador de módulo
-- [@024 @024 L1 - Divisão Inteira e Quebrada](base/024)  [](#seleção)
-- [@062 @062 L1 - Angulo Cartesiano](base/062)  [](#seleção)
-- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011)  [](#operações)
+- [@024 @024 L1 - Divisão Inteira e Quebrada](base/024) 
+- [@062 @062 L1 - Angulo Cartesiano](base/062) 
+- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005)  [](#operações)
-- [@028 @028 L2 - Cadê a cabeça da cobra](base/028)  [](#seleção)
-- [@019 @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019)  [](#seleção)
+- [@028 @028 L2 - Cadê a cabeça da cobra](base/028) 
+- [@019 @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019) 
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
 
 - Operadores lógicos

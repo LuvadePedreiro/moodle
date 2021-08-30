@@ -1,4 +1,4 @@
-## @019 #seleção L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+## @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/019/solver.c)
 ## Motivaçao
