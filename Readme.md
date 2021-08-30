@@ -71,7 +71,7 @@
 - Operadores lógicos
 - [@023 @023 L2 - Jokenpo das tartarugas!](base/023) 
 - [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
-- [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035)  [](#seleção)
+- [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
 - [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 
 - Seleção Intervalada
