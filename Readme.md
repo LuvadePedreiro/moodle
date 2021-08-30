@@ -69,8 +69,8 @@
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
 
 - Operadores lógicos
-- [@023 @023 L2 - Jokenpo das tartarugas!](base/023)  [](#seleção)
-- [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039)  [](#seleção)
+- [@023 @023 L2 - Jokenpo das tartarugas!](base/023) 
+- [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
 - [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035)  [](#seleção)
 - [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 

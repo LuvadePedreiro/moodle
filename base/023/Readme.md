@@ -1,4 +1,4 @@
-## @023 #seleção L2 - Jokenpo das tartarugas!
+## @023 L2 - Jokenpo das tartarugas!
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/023/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/023/__capa.jpg)
