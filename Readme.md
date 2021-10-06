@@ -2,10 +2,27 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
+    - [Conteúdo sugeridos](#conteúdo-sugeridos)
+    - [Impressão formatada(casas decimais e zeros à esquerda)](#impressão-formatadacasas-decimais-e-zeros-à-esquerda)
+    - [Escrevendo Expressões (sqrt, pow)](#escrevendo-expressões-sqrt-pow)
+    - [Operador de módulo](#operador-de-módulo)
 - [02. Seleção](#02-seleção)
-- [05. Repetição I](#05-repetição-i)
-- [06. Repetição II](#06-repetição-ii)
-- [07. Repetição Extra](#07-repetição-extra)
+    - [Conteúdo sugerido](#conteúdo-sugerido)
+    - [Manipulação de Ifs e Elses e Fórmulas](#manipulação-de-ifs-e-elses-e-fórmulas)
+    - [Lógica](#lógica)
+    - [Biblioteca Math: ceil, floor, round, abs](#biblioteca-math-ceil-floor-round-abs)
+    - [Operador de módulo](#operador-de-módulo)
+    - [Operadores lógicos](#operadores-lógicos)
+    - [Seleção Intervalada](#seleção-intervalada)
+    - [Busca e Contagem](#busca-e-contagem)
+    - [Conversão de bases](#conversão-de-bases)
+- [05. Repetição](#05-repetição)
+    - [Conteúdo sugerido](#conteúdo-sugerido)
+    - [While e técnicas de controle (break e continue)](#while-e-técnicas-de-controle-break-e-continue)
+    - [For (controle de laço)](#for-controle-de-laço)
+    - [For (múltiplso controles)](#for-múltiplso-controles)
+    - [Math](#math)
+    - [Decomposição de Inteiros](#decomposição-de-inteiros)
 - [08. Vetores I](#08-vetores-i)
 - [09. Vetores II](#09-vetores-ii)
 - [10. Vetores Extra](#10-vetores-extra)
@@ -23,22 +40,48 @@
 
 
 ## 01. Operações
-- Impressão formatada(casas decimais e zeros à esquerda)
+
+### Conteúdo sugeridos
+    - instalando o mingw e vscode
+    - tipos de dados básicos: `bool, int, float, char, const char *`
+    - operadores aritméticos: `+ - * / %`
+    - lendo e escrevendo variáveis: scanf, printf, puts, getchar
+    - uso avançado do scanf
+    - maldição da leitura do char, lendo ou ignorando whitespaces
+    - lendo errado a entrada, limpando o buffer
+    - como funciona o buffer de entrada
+    - utilizando funções da biblioteca math.h
+    - debugando
+
+### Impressão formatada(casas decimais e zeros à esquerda)
 - [@000 @000 L1 - Operações básicas - Imprimindo float formatado](base/000) 
 
-- Escrevendo Expressões (sqrt, pow)
+### Escrevendo Expressões (sqrt, pow)
 - [@002 @002 L2 - Pintando a casa - Calculando a área do triângulo](base/002) 
 - [@003 @003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003) 
 - [@196 @196 L2 - Comprando TV parcelado](base/196) 
 - [@004 @004 L3 - Mete bala - Distância entre dois pontos](base/004) 
 
-- Operador de módulo
+### Operador de módulo
 - [@195 @195 L2 - Xadrez OBI 2019 F1P1](base/195) 
 - [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
 
 
 ## 02. Seleção
-- Manipulação de Ifs e Elses e Fórmulas
+
+### Conteúdo sugerido
+    - Funções
+        - recebendo e retornando básicos [LINK]
+        - retorno de função: retorno default e returnos parciais ao invés de elses
+    - Estruturas de Seleção
+        - Indentação, estruturas básicas e uso de operadores lógicos de corte
+        - if, else, else if
+        - Operadores lógicos: `&&, ||, !`
+        - Operadores relacionais: `==, !=, >, <, >=, <=`
+        - Operador ternário
+
+
+### Manipulação de Ifs e Elses e Fórmulas
 - [@015 @015 L1 - Calculadora Numérica](base/015) 
 - [@155 @155 L1 - Plantação de Morangos](base/155) 
 - [@151 @151 L1 - Impedido!](base/151) 
@@ -47,87 +90,104 @@
 - [@040 @040 L2 - Está Trabalhando ou Não!](base/040) 
 - [@001 @001 L2 - Sai fora Bhaskara (Cálculo de raízes)](base/001) 
 
-- Lógica
+### Lógica
 - [@157 @157 L1 - Frota de Táxi - OBI 2005](base/157) 
 - [@014 @014 L1 - Quantos são iguais? (Contando Repetidos)](base/014) 
 - [@156 @156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156) 
 - [@022 @022 L2 - Teleférico - OBI 2017 - Fase 1](base/022) 
 - [@194 @194 L2 - Nota cortada - OBI 2019 F1P1](base/194) 
 
-- Biblioteca Math: ceil, floor, round, abs
+### Biblioteca Math: ceil, floor, round, abs
 - [@018 @018 L2 - Arredondar](base/018) 
 - [@030 @030 L2 - Mercantil V1 - Quem chega mais perto](base/030) 
 
-- Operador de módulo
+### Operador de módulo
 - [@024 @024 L1 - Divisão Inteira e Quebrada](base/024) 
 - [@062 @062 L1 - Angulo Cartesiano](base/062) 
 - [@025 @025 L1 - Ambos Divisíveis](base/025) 
 - [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
 - [@028 @028 L2 - Cadê a cabeça da cobra](base/028) 
+- [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
 - [@019 @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019) 
+- [@034 @034 L3 - Formiga da bundona](base/034)  [](#seleção)
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
+- [@037 @037 L3 - Jokenpo 15](base/037)  [](#seleção)
 
-- Operadores lógicos
+### Operadores lógicos
 - [@023 @023 L2 - Jokenpo das tartarugas!](base/023) 
 - [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
 - [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
 - [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 
-- Seleção Intervalada
+### Seleção Intervalada
 - [@021 @021 L2 - Aumento de Salário](base/021)  [](#seleção)
 - [@032 @032 L2 - Bolada na fuça](base/032)  [](#seleção)
 - [@183 @183 L2 - Criança, Adulto, Idoso, Múmia](base/183)  [](#seleção)
 
-- Busca e Contagem
+### Busca e Contagem
 - [@017 @017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017)  [](#seleção)
 - [@192 @192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192) 
 - [@029 @029 L2 - Quiz do Harry Potter](base/029)  [](#seleção)
 - [@036 @036 L3 - Morre o do meio](base/036)  [](#seleção)
 - [@033 @033 L3 - Professor Bonzinho](base/033)  [](#seleção)
 
-- Melhores
+### Conversão de bases
 - [@038 @038 L2 - A hora do próximo segundo](base/038)  [](#seleção)
 - [@027 @027 L2 - Adedonha na Califórnia](base/027)  [](#seleção)
-- [@034 @034 L3 - Formiga da bundona](base/034)  [](#seleção)
 - [@043 @043 L3 - Dorme Tarde Acordar Cedo!](base/043)  [](#seleção)
-- [@037 @037 L3 - Jokenpo 15](base/037)  [](#seleção)
 
-## 05. Repetição I
 
-- [@056 @056 L1 - Calça apertada - Mínimo](base/056)  [](#repetição)
-- [@013 @013 L1 - Dividindo pares de sapatos pra três](base/013)  [](#repetição)
-- [@055 @055 L1 - Ultrons - Contar Elemento](base/055)  [](#repetição)
-- [@045 @045 L1 - Zero é par - Somatório de Pares!](base/045)  [](#repetição)
-- [@058 @058 L2 - Busca Intervalada](base/058)  [](#repetição)
-- [@048 @048 L2 - Cabo de Guerra Jedi](base/048)  [](#repetição)
-- [@050 @050 L2 - Castelos de Cubos](base/050)  [](#repetição)
-- [@046 @046 L2 - Jogo da Concentração](base/046)  [](#repetição)
-- [@057 @057 L2 - Revolta em Portugal](base/057)  [](#repetição)
-- [@049 @049 L2 - Sapinho 1 no Poço](base/049)  [](#repetição)
+## 05. Repetição
+### Conteúdo sugerido
+    - Seleção: if, else, else if
+    - Controle: for, while, do while
+    - Controle de laço: break, continue
+    - Funções com returns parciais
+
+### While e técnicas de controle (break e continue)
 - [@053 @053 L2 - OBI 2016 - Fuga em helicóptero](base/053)  [](#repetição)
-- [@189 @189 L2 - Fatores de um número](base/189)  [](#repetição)
-
-## 06. Repetição II
-
-- [@136 @136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136)  [](#repetição)
-- [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
 - [@047 @047 L2 - Ônibus lotado](base/047)  [](#repetição)
-- [@137 @137 L2 - Fatoração](base/137)  [](#repeticao)
-- [@066 @066 L2 - Spok Palíndromo](base/066)  [](#repetição)
-- [@051 @051 L3 - Arremesso de pedra na lua](base/051)  [](#repetição)
-- [@064 @064 L3 - Conta Dígitos](base/064)  [](#repetição)
-- [@052 @052 L3 - Hoje tem sopa de coelho?](base/052)  [](#repetição)
+- [@049 @049 L2 - Sapinho 1 no Poço](base/049)  [](#repetição)
 - [@059 @059 L3 - Sapinho 2 morrendo no poço](base/059)  [](#repetição)
-- [@063 @063 L3 - Blackjack 21!](base/063)  [](#repetição)
-- [@054 @054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 - [@065 @065 L3 - Sapinho 3 matemático não morrendo no poço](base/065)  [](#repetição)
 
-## 07. Repetição Extra
+### For (controle de laço)
+- [@013 @013 L1 - Dividindo pares de sapatos pra três](base/013)  [](#repetição)
+- [@045 @045 L1 - Zero é par - Somatório de Pares!](base/045)  [](#repetição)
+- [@050 @050 L2 - Castelos de Cubos](base/050)  [](#repetição)
+- [@054 @054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 
+### For (múltiplso controles)
+- [@046 @046 L2 - Jogo da Concentração](base/046)  [](#repetição)
+
+### Math
+- [@090 @090 L2 - Primo](base/090)  [](#vetores)
+- [@189 @189 L2 - Fatores de um número](base/189)  [](#repetição)
+- [@052 @052 L3 - Hoje tem sopa de coelho?](base/052)  [](#repetição)
 - [@160 @160 L3 - Somatório de Fibonacci](base/160)  [](#repetição)
 
+### Decomposição de Inteiros
+- [@066 @066 L2 - Spok Palíndromo](base/066)  [](#repetição)
+- [@064 @064 L3 - Conta Dígitos](base/064)  [](#repetição)
+
+
 ## 08. Vetores I
+
+- Separar questões de vetores: 
+    - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
+
+- Adaptar essas questões de vieram de repetição para vetor
+- [@056 @056 L1 - Calça apertada - Mínimo](base/056)  [](#repetição)
+- [@055 @055 L1 - Ultrons - Contar Elemento](base/055)  [](#repetição)
+- [@058 @058 L2 - Busca Intervalada](base/058)  [](#repetição)
+- [@048 @048 L2 - Cabo de Guerra Jedi](base/048)  [](#repetição)
+- [@057 @057 L2 - Revolta em Portugal](base/057)  [](#repetição)
+- [@136 @136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136)  [](#repetição)
+- [@051 @051 L3 - Arremesso de pedra na lua](base/051)  [](#repetição)
+- [@063 @063 L3 - Blackjack 21!](base/063)  [](#repetição)
+
+- Questões de vetores
 
 - [@060 @060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060) 
 - [@061 @061 L2 - Capoeira invertendo vetor!](base/061) 
@@ -135,7 +195,6 @@
 - [@091 @091 L2 - MMC](base/091)  [](#vetores)
 - [@101 @101 L2 - Mostrar mão de cartas](base/101)  [](#vetores)
 - [@068 @068 L2 - Organizando a fila do RU](base/068)  [](#vetores)
-- [@090 @090 L2 - Primo](base/090)  [](#vetores)
 - [@186 @186 L2 - Processando uma linha de inteiros](base/186)  [](#vetores)
 - [@067 @067 L2 - Queda de dominós](base/067)  [](#vetores)
 - [@072 @072 L2 - Soldados Pequenos e Grandes!](base/072)  [](#vetores)
