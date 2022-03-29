@@ -65,13 +65,14 @@
 ### Operador de módulo
 - [@195 @195 L2 - Xadrez OBI 2019 F1P1](base/195) 
 - [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
+- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 
 
 ## 02. Seleção
 
 ### Conteúdo sugerido
     - Funções
-        - recebendo e retornando básicos [LINK]
+        - recebendo e retornando básicos
         - retorno de função: retorno default e returnos parciais ao invés de elses
     - Estruturas de Seleção
         - Indentação, estruturas básicas e uso de operadores lógicos de corte
@@ -105,7 +106,6 @@
 - [@024 @024 L1 - Divisão Inteira e Quebrada](base/024) 
 - [@062 @062 L1 - Angulo Cartesiano](base/062) 
 - [@025 @025 L1 - Ambos Divisíveis](base/025) 
-- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
 - [@028 @028 L2 - Cadê a cabeça da cobra](base/028) 
 - [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
