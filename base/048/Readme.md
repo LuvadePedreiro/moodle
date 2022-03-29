@@ -1,0 +1,118 @@
+## @048 #repetição L2 - Cabo de Guerra Jedi
+
+
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/048/__capa.jpg)
+
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/048/t.tio)
+## Motivação
+
+* Hoje é Dia de gincana galeraaaaaaa!
+* EEEEEEEE.
+* A primeira competição do dia é cabo de guerra.
+* A equipe mais forte vence. Prepara, 1, 2, 3, vai!!!
+
+Um grupo de Jedis e Siths resolveram decidir de uma fez qual lado da força é o mais forte, então eles resolveram realizar uma competição de cabo de guerra para colocarem seus poderes a prova.
+
+## Ação
+
+Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre 1 e 10. (T, sempre par, entre 0 e 50). O valor do número representa a força do participante. A primeira metade do vetor representa os participantes do lado Jedi. A segunda metade do vetor representa os participantes do lado Sith. Analise o vetor somando a força dos participantes e escreva o nome do lado que ganhou ou empate ("Jedi", "Sith", "Empate").
+
+### Entrada
+
+* 1ª linha: número de elementos
+* Próximas linhas: valor dos elementos.
+
+### Saída
+
+* "Jedi", "Sith", ou "Empate"
+
+## Exemplos
+
+```
+>>>>>>>>
+2
+1
+1
+========
+Empate
+<<<<<<<<
+
+>>>>>>>>
+2
+2
+1
+========
+Jedi
+<<<<<<<<
+
+>>>>>>>>
+2
+2
+4
+========
+Sith
+<<<<<<<<
+
+>>>>>>>>
+4
+2
+4
+5
+3
+========
+Sith
+<<<<<<<<
+
+>>>>>>>>
+6
+2
+4
+3
+3
+3
+3
+========
+Empate
+<<<<<<<<
+
+>>>>>>>>
+8
+2
+4
+3
+4
+3
+3
+3
+2
+========
+Jedi
+<<<<<<<<
+```
+
+## Ajuda
+
+- Que tal criar duas variáveis, `soma_jedi` e `soma_jedi`, que acumula os respectivos valores dos `jedi` e `sith`. 
+
+Pseudocódigo
+
+```
+var tamanho = ler_inteiro()
+var soma_jedi = 0
+var soma_sith = 0
+var auxiliar = 1
+
+Faça um laço com contador começando de 1 até igual tamanho:
+    valor = ler_inteiro()
+    Se contador menor que tamanho / 2
+        soma_jedi é incrementada com o valor
+    Senao
+        soma_sith é incrementada com o valor
+
+Se soma_jedi maior que soma_sith
+    Mostrar "Jedi"
+Senão Se soma_jedi menor que soma_sith:
+    Mostrar "Sith"
+Senão
+    Mostrar "Empate"
+```
