@@ -1,4 +1,4 @@
-## @072 #vetores L2 - Soldados Pequenos e Grandes!
+## @072 #vetores L2 - Soldados PMG!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/072/__capa.jpg)

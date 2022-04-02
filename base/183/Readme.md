@@ -1,4 +1,4 @@
-## @183 #seleção L2 - Criança, Adulto, Idoso, Múmia
+## @183 #seleção L2 - Criança ou Múmia
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/183/__capa.jpg)

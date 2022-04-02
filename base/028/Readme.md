@@ -1,4 +1,4 @@
-## @028 L2 - Cadê a cabeça da cobra
+## @028 L2 - Cabeça da cobra
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/028/__capa.jpg)
 

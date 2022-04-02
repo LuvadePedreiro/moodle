@@ -115,7 +115,7 @@
 - [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
 - [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
-- [@028 @028 L2 - Cadê a cabeça da cobra](base/028) 
+- [@028 @028 L2 - Cabeça da cobra](base/028) 
 - [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
 - [@019 @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019) 
 - [@034 @034 L3 - Formiga da bundona](base/034)  [](#seleção)
@@ -126,19 +126,19 @@
 ### Seleção Intervalada
 - [@021 @021 L2 - Aumento de Salário](base/021)  [](#seleção)
 - [@032 @032 L2 - Bolada na fuça](base/032)  [](#seleção)
-- [@183 @183 L2 - Criança, Adulto, Idoso, Múmia](base/183)  [](#seleção)
+- [@183 @183 L2 - Criança ou Múmia](base/183)  [](#seleção)
 
 ### Busca e Contagem
-- [@017 @017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017)  [](#seleção)
+- [@017 @017 L2 - Maior ovo](base/017)  [](#seleção)
 - [@192 @192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192) 
 - [@029 @029 L2 - Quiz do Harry Potter](base/029)  [](#seleção)
 - [@036 @036 L3 - Morre o do meio](base/036)  [](#seleção)
 - [@033 @033 L3 - Professor Bonzinho](base/033)  [](#seleção)
 
 ### Conversão de bases
-- [@038 @038 L2 - A hora do próximo segundo](base/038)  [](#seleção)
-- [@027 @027 L2 - Adedonha na Califórnia](base/027)  [](#seleção)
-- [@043 @043 L3 - Dorme Tarde Acordar Cedo!](base/043)  [](#seleção)
+- [@038 @038 L2 - Próximo segundo](base/038)  [](#seleção)
+- [@027 @027 L2 - Adedonha](base/027)  [](#seleção)
+- [@043 @043 L3 - Horas de sono](base/043)  [](#seleção)
 
 
 ## 03. Repetição
@@ -154,11 +154,11 @@
 - [@047 @047 L2 - Ônibus lotado](base/047)  [](#repetição)
 - [@049 @049 L2 - Sapinho 1 no Poço](base/049)  [](#repetição)
 - [@059 @059 L3 - Sapinho 2 morrendo no poço](base/059)  [](#repetição)
-- [@065 @065 L3 - Sapinho 3 matemático não morrendo no poço](base/065)  [](#repetição)
+- [@065 @065 L3 - Sapinho 3 matemático](base/065)  [](#repetição)
 
 ### For (controle de laço)
-- [@013 @013 L1 - Dividindo pares de sapatos pra três](base/013)  [](#repetição)
-- [@045 @045 L1 - Zero é par - Somatório de Pares!](base/045)  [](#repetição)
+- [@013 @013 L1 - Sapatos para 3](base/013)  [](#repetição)
+- [@045 @045 L1 - Soma dos pares](base/045)  [](#repetição)
 - [@050 @050 L2 - Castelos de Cubos](base/050)  [](#repetição)
 - [@054 @054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 
@@ -184,14 +184,14 @@
 ### Mínimo
 - [@056 @056 L1 - Calça apertada - Mínimo](base/056)  [](#repetição)
 - [@060 @060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060) 
-- [@051 @051 L3 - Arremesso de pedra na lua](base/051)  [](#repetição)
-- [@100 @100 L3 - Jogando pião na rodinha](base/100)  [](#vetores)
+- [@051 @051 L3 - Pedra na lua](base/051)  [](#repetição)
+- [@100 @100 L3 - Pião na rodinha](base/100)  [](#vetores)
 
 ### Contagem
 - [@055 @055 L1 - Ultrons - Contar Elemento](base/055)  [](#repetição)
 - [@048 @048 L2 - Cabo de Guerra Jedi](base/048)  [](#repetição)
 - [@057 @057 L2 - Revolta em Portugal](base/057)  [](#repetição)
-- [@072 @072 L2 - Soldados Pequenos e Grandes!](base/072)  [](#vetores)
+- [@072 @072 L2 - Soldados PMG!](base/072)  [](#vetores)
 - [@077 @077 L3 - Mercantil V3 - Muitas rodadas](base/077)  [](#vetores)
 
 ### Filtragem

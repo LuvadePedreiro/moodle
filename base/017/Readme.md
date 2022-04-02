@@ -1,4 +1,4 @@
-## @017 #seleção L2 - Ovos de galinha (Procurando o Maior valor)
+## @017 #seleção L2 - Maior ovo
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/017/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/017/__capa.jpg)
