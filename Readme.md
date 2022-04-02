@@ -5,14 +5,12 @@
     - [Conteúdo sugeridos](#conteúdo-sugeridos)
     - [Impressão formatada(casas decimais e zeros à esquerda)](#impressão-formatadacasas-decimais-e-zeros-à-esquerda)
     - [Escrevendo Expressões (sqrt, pow)](#escrevendo-expressões-sqrt-pow)
-    - [Operador de módulo](#operador-de-módulo)
 - [02. Seleção](#02-seleção)
     - [Conteúdo sugerido](#conteúdo-sugerido)
     - [Manipulação de Ifs e Elses e Fórmulas](#manipulação-de-ifs-e-elses-e-fórmulas)
     - [Lógica](#lógica)
     - [Biblioteca Math: ceil, floor, round, abs](#biblioteca-math-ceil-floor-round-abs)
     - [Operador de módulo](#operador-de-módulo)
-    - [Operadores lógicos](#operadores-lógicos)
     - [Seleção Intervalada](#seleção-intervalada)
     - [Busca e Contagem](#busca-e-contagem)
     - [Conversão de bases](#conversão-de-bases)
@@ -20,12 +18,10 @@
     - [Conteúdo sugerido](#conteúdo-sugerido)
     - [While e técnicas de controle (break e continue)](#while-e-técnicas-de-controle-break-e-continue)
     - [For (controle de laço)](#for-controle-de-laço)
-    - [For (múltiplso controles)](#for-múltiplso-controles)
+    - [For (múltiplos controles)](#for-múltiplos-controles)
     - [Math](#math)
     - [Decomposição de Inteiros](#decomposição-de-inteiros)
 - [08. Vetores I](#08-vetores-i)
-- [09. Vetores II](#09-vetores-ii)
-- [10. Vetores Extra](#10-vetores-extra)
 - [11. Strings I](#11-strings-i)
 - [12. Strings II](#12-strings-ii)
 - [13. String III](#13-string-iii)
@@ -62,11 +58,6 @@
 - [@196 @196 L2 - Comprando TV parcelado](base/196) 
 - [@004 @004 L3 - Mete bala - Distância entre dois pontos](base/004) 
 
-### Operador de módulo
-- [@195 @195 L2 - Xadrez OBI 2019 F1P1](base/195) 
-- [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
-- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
-
 
 ## 02. Seleção
 
@@ -81,7 +72,6 @@
         - Operadores relacionais: `==, !=, >, <, >=, <=`
         - Operador ternário
 
-
 ### Manipulação de Ifs e Elses e Fórmulas
 - [@015 @015 L1 - Calculadora Numérica](base/015) 
 - [@155 @155 L1 - Plantação de Morangos](base/155) 
@@ -95,8 +85,11 @@
 - [@157 @157 L1 - Frota de Táxi - OBI 2005](base/157) 
 - [@014 @014 L1 - Quantos são iguais? (Contando Repetidos)](base/014) 
 - [@156 @156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156) 
-- [@022 @022 L2 - Teleférico - OBI 2017 - Fase 1](base/022) 
 - [@194 @194 L2 - Nota cortada - OBI 2019 F1P1](base/194) 
+- [@023 @023 L2 - Jokenpo das tartarugas!](base/023) 
+- [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
+- [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
+- [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 
 ### Biblioteca Math: ceil, floor, round, abs
 - [@018 @018 L2 - Arredondar](base/018) 
@@ -104,8 +97,12 @@
 
 ### Operador de módulo
 - [@024 @024 L1 - Divisão Inteira e Quebrada](base/024) 
-- [@062 @062 L1 - Angulo Cartesiano](base/062) 
+- [@062 @062 L2 - Angulo Cartesiano](base/062) 
 - [@025 @025 L1 - Ambos Divisíveis](base/025) 
+- [@022 @022 L2 - Teleférico - OBI 2017 - Fase 1](base/022) 
+- [@195 @195 L2 - Xadrez OBI 2019 F1P1](base/195) 
+- [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
+- [@011 @011 L2 - Formatando data - Casas decimais e operador de módulo](base/011) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
 - [@028 @028 L2 - Cadê a cabeça da cobra](base/028) 
 - [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016)  [](#repetição)
@@ -114,11 +111,6 @@
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
 - [@037 @037 L3 - Jokenpo 15](base/037)  [](#seleção)
 
-### Operadores lógicos
-- [@023 @023 L2 - Jokenpo das tartarugas!](base/023) 
-- [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
-- [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
-- [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 
 ### Seleção Intervalada
 - [@021 @021 L2 - Aumento de Salário](base/021)  [](#seleção)
@@ -158,7 +150,7 @@
 - [@050 @050 L2 - Castelos de Cubos](base/050)  [](#repetição)
 - [@054 @054 L3 - Quebrador de Copos](base/054)  [](#repetição)
 
-### For (múltiplso controles)
+### For (múltiplos controles)
 - [@046 @046 L2 - Jogo da Concentração](base/046)  [](#repetição)
 
 ### Math
@@ -200,9 +192,6 @@
 - [@072 @072 L2 - Soldados Pequenos e Grandes!](base/072)  [](#vetores)
 - [@075 @075 L3 - Abastecimento de água](base/075)  [](#vetores)
 - [@083 @083 L3 - Anfíbios e Batráquios - Está contido](base/083)  [](#vetores)
-
-## 09. Vetores II
-
 - [@082 @082 L3 - As unhas de Luiza - Vetor para inteiro](base/082)  [](#vetores)
 - [@080 @080 L3 - Baruel Ruel trocando figurinhas!](base/080)  [](#vetores)
 - [@073 @073 L3 - Batida Policial - Ordenando vetores](base/073)  [](#vetores)
@@ -215,9 +204,6 @@
 - [@100 @100 L3 - Jogando pião na rodinha](base/100)  [](#vetores)
 - [@079 @079 L3 - Jogo do Avesso V2](base/079)  [](#vetores)
 - [@081 @081 L3 - Loucura de Marquinhos - Decompor um inteiro](base/081)  [](#vetores)
-
-## 10. Vetores Extra
-
 - [@138 @138 L3 - Permutação](base/138)  [](#vetores)
 - [@087 @087 L3 - Zoológico Entrando na Arca de Noé](base/087)  [](#vetores)
 - [@069 @069 L3 - Zoo quantas especies!](base/069)  [](#vetores)
