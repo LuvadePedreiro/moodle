@@ -8,8 +8,8 @@
 - [02. Seleção](#02-seleção)
     - [Conteúdo sugerido](#conteúdo-sugerido)
     - [Manipulação de Ifs e Elses e Fórmulas](#manipulação-de-ifs-e-elses-e-fórmulas)
-    - [Lógica](#lógica)
     - [Biblioteca Math: ceil, floor, round, abs](#biblioteca-math-ceil-floor-round-abs)
+    - [Lógica](#lógica)
     - [Operador de módulo](#operador-de-módulo)
     - [Seleção Intervalada](#seleção-intervalada)
     - [Busca e Contagem](#busca-e-contagem)
@@ -90,6 +90,10 @@
 - [@026 @026 L1 - Positivo, Nulo ou Negativo?](base/026) 
 - [@031 @031 L2 - Fiquei de final](base/031) 
 - [@040 @040 L2 - Está Trabalhando ou Não!](base/040) 
+
+### Biblioteca Math: ceil, floor, round, abs
+- [@018 @018 L2 - Arredondar](base/018) 
+- [@030 @030 L2 - Mercantil V1 - Quem chega mais perto](base/030) 
 - [@001 @001 L2 - Sai fora Bhaskara (Cálculo de raízes)](base/001) 
 
 ### Lógica
@@ -102,9 +106,6 @@
 - [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
 - [@020 @020 L2 - Zerinho ou Um!](base/020)  [](#seleção)
 
-### Biblioteca Math: ceil, floor, round, abs
-- [@018 @018 L2 - Arredondar](base/018) 
-- [@030 @030 L2 - Mercantil V1 - Quem chega mais perto](base/030) 
 
 ### Operador de módulo
 - [@024 @024 L1 - Divisão Inteira e Quebrada](base/024) 
@@ -200,20 +201,19 @@
 
 ### Conversão
 - [@063 @063 L3 - Blackjack 21!](base/063)  [](#repetição)
-- [@101 @101 L2 - Mostrar mão de cartas](base/101)  [](#vetores)
-- [@188 @188 L3 - Devolvendo o troco com vetores](base/188)  [](#vetores)
-- [@082 @082 L3 - As unhas de Luiza - Vetor para inteiro](base/082)  [](#vetores)
+- [@101 @101 L2 - Mostrar cartas](base/101)  [](#vetores)
+- [@188 @188 L3 - Devolvendo o troco](base/188)  [](#vetores)
+- [@082 @082 L3 - Vetor para inteiro](base/082)  [](#vetores)
 
 ### Manipulação
 - [@161 @161 L3 - Vivo ou Morto - OBI 2005](base/161)  [](#repetição)
-- [@061 @061 L2 - Capoeira invertendo vetor!](base/061) 
+- [@061 @061 L2 - Invertendo vetor](base/061) 
 - [@091 @091 L2 - MMC](base/091)  [](#vetores)
 - [@068 @068 L2 - Organizando a fila do RU](base/068)  [](#vetores)
 - [@186 @186 L2 - Processando uma linha de inteiros](base/186)  [](#vetores)
-- [@081 @081 L3 - Loucura de Marquinhos - Decompor um inteiro](base/081)  [](#vetores)
-- [@087 @087 L3 - Zoológico Entrando na Arca de Noé](base/087)  [](#vetores)
-- [@069 @069 L3 - Zoo quantas especies!](base/069)  [](#vetores)
-- [@084 @084 L3 - Zoológico Um animal de cada tipo!](base/084)  [](#vetores)
+- [@081 @081 L3 - Decompor um inteiro](base/081)  [](#vetores)
+- [@087 @087 L3 - Arca Quantos casais](base/087)  [](#vetores)
+- [@084 @084 L3 - Arca Exemplares](base/084)  [](#vetores)
 
 ### Proximidade
 - [@067 @067 L2 - Queda de dominós](base/067)  [](#vetores)
@@ -221,12 +221,13 @@
 - [@136 @136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136)  [](#repetição)
 - [@158 @158 L3 - Trilhas - OBI 2005](base/158)  [](#repetição)
 - [@071 @071 L3 - Mário e o Assassin's Creed - Parkour](base/071)  [](#vetores)
-- [@085 @085 L3 - Exército - Perto da morte](base/085)  [](#vetores)
+- [@085 @085 L3 - Perto do médico](base/085)  [](#vetores)
 - [@079 @079 L3 - Jogo do Avesso V2](base/079)  [](#vetores)
 
 ### Ordenação
 - [@073 @073 L3 - Batida Policial - Ordenando vetores](base/073)  [](#vetores)
 - [@088 @088 L3 - Se fosse a mediana eu tinha passado!](base/088)  [](#vetores)
+- [@069 @069 L3 - Arca Quantas especies!](base/069)  [](#vetores)
 
 ### Lógica
 - [@075 @075 L3 - Abastecimento de água](base/075)  [](#vetores)
@@ -242,8 +243,6 @@
 - [@138 @138 L3 - Permutação](base/138)  [](#vetores)
 - [@008 @008 L3 - Força Bruta (Gerando próxima combinação)](base/008)  [](#vetores)
 - [@190 @190 L4 - Maiores Palíndromos](base/190)  [](#repetição)
-
-
 
 ## 05. Strings
 

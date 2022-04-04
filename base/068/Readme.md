@@ -3,6 +3,8 @@
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/068/__capa.jpg)
 
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/068/solver.cpp)
+
 ## Motivação
 
 Você ganhou uma bolsa de auxílio pra organizar a fila do RU.  

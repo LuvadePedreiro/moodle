@@ -1,4 +1,4 @@
-## @061 L2 - Capoeira invertendo vetor!
+## @061 L2 - Invertendo vetor
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/061/__capa.jpg)

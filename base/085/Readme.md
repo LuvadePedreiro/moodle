@@ -1,7 +1,8 @@
-## @085 #vetores L3 - Exército - Perto da morte
+## @085 #vetores L3 - Perto do médico
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/085/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/085/solver.cpp)
 
 ## Motivação
 
