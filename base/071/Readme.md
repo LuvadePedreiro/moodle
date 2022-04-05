@@ -1,4 +1,4 @@
-## @071 L3 - Mário e o Assassin's Creed - Parkour
+## @071 L3 - Parkour
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/071/__capa.jpg)

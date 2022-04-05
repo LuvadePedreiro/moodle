@@ -1,4 +1,4 @@
-## @186 L2 - Processando uma linha de inteiros
+## @186 L2 - Linha de inteiros
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/186/__capa.jpg)
 

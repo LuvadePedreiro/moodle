@@ -1,4 +1,4 @@
-## @008 L3 - Força Bruta (Gerando próxima combinação)
+## @008 L3 - Senhas
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/008/__capa.jpg)

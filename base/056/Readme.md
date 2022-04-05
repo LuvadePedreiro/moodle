@@ -1,4 +1,4 @@
-## @056 L1 - Calça apertada - Mínimo
+## @056 L1 - Calça apertada
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/056/__capa.jpg)

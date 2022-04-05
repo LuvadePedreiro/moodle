@@ -1,4 +1,4 @@
-## @073 L3 - Batida Policial - Ordenando vetores
+## @073 L3 - Batida Policial
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/073/__capa.jpg)

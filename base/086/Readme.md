@@ -1,4 +1,4 @@
-## @086 L3 - Coleção de Tazos - Quantos se repetem mais
+## @086 L3 - Tazos
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/086/__capa.jpg)

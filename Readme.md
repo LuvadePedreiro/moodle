@@ -183,13 +183,13 @@
     - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
 
 ### Mínimo
-- [@056 @056 L1 - Calça apertada - Mínimo](base/056) 
-- [@060 @060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060) 
+- [@056 @056 L1 - Calça apertada](base/056) 
+- [@060 @060 L1 - Casamento](base/060) 
 - [@051 @051 L3 - Pedra na lua](base/051) 
 - [@100 @100 L3 - Pião na rodinha](base/100) 
 
 ### Contagem
-- [@055 @055 L1 - Ultrons - Contar Elemento](base/055) 
+- [@055 @055 L1 - Contagem](base/055) 
 - [@048 @048 L2 - Cabo de Guerra Jedi](base/048) 
 - [@057 @057 L2 - Revolta em Portugal](base/057) 
 - [@072 @072 L2 - Soldados PMG!](base/072) 
@@ -209,39 +209,39 @@
 - [@161 @161 L3 - Vivo ou Morto - OBI 2005](base/161) 
 - [@061 @061 L2 - Invertendo vetor](base/061) 
 - [@091 @091 L2 - MMC](base/091) 
-- [@068 @068 L2 - Organizando a fila do RU](base/068) 
-- [@186 @186 L2 - Processando uma linha de inteiros](base/186) 
+- [@068 @068 L2 - Fila do RU](base/068) 
+- [@186 @186 L2 - Linha de inteiros](base/186) 
 - [@081 @081 L3 - Decompor um inteiro](base/081) 
-- [@087 @087 L3 - Arca Quantos casais](base/087) 
-- [@084 @084 L3 - Arca Exemplares](base/084) 
+- [@087 @087 L3 - Arca: Quantos casais](base/087) 
+- [@084 @084 L3 - Arca: Exemplares](base/084) 
 
 ### Proximidade
 - [@067 @067 L2 - Queda de dominós](base/067) 
 - [@078 @078 L2 - Jogo do Avesso](base/078) 
 - [@136 @136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136) 
 - [@158 @158 L3 - Trilhas - OBI 2005](base/158) 
-- [@071 @071 L3 - Mário e o Assassin's Creed - Parkour](base/071) 
+- [@071 @071 L3 - Parkour](base/071) 
 - [@085 @085 L3 - Perto do médico](base/085) 
 - [@079 @079 L3 - Jogo do Avesso V2](base/079) 
 
 ### Ordenação
-- [@073 @073 L3 - Batida Policial - Ordenando vetores](base/073) 
-- [@088 @088 L3 - Se fosse a mediana eu tinha passado!](base/088) 
-- [@069 @069 L3 - Arca Quantas especies!](base/069) 
+- [@073 @073 L3 - Batida Policial](base/073) 
+- [@088 @088 L3 - Mediana](base/088) 
+- [@069 @069 L3 - Arca: Quantas especies!](base/069) 
 
 ### Lógica
 - [@075 @075 L3 - Abastecimento de água](base/075) 
-- [@083 @083 L3 - Anfíbios e Batráquios - Está contido](base/083) 
-- [@080 @080 L3 - Baruel Ruel trocando figurinhas!](base/080) 
-- [@010 @010 L3 - Bolinhas viciadas(contagem de repetições)](base/010) 
+- [@083 @083 L3 - Batráquios](base/083) 
+- [@080 @080 L3 - Figurinhas](base/080) 
+- [@086 @086 L3 - Tazos](base/086) 
+- [@010 @010 L3 - Bolinhas viciadas](base/010) 
 - [@070 @070 L3 - Cabeças vão rolar](base/070) 
-- [@086 @086 L3 - Coleção de Tazos - Quantos se repetem mais](base/086) 
-- [@074 @074 L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074) 
-- [@076 @076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076) 
+- [@074 @074 L3 - Botas Trocadas - OBI 2017](base/074) 
+- [@076 @076 L3 - O segredo do Cofre - OBI 2017](base/076) 
 
 ### Math
 - [@138 @138 L3 - Permutação](base/138) 
-- [@008 @008 L3 - Força Bruta (Gerando próxima combinação)](base/008) 
+- [@008 @008 L3 - Senhas](base/008) 
 - [@190 @190 L4 - Maiores Palíndromos ](base/190) 
 
 ## 05. Strings
@@ -271,7 +271,7 @@
 - [@181 @181 L2 - Somando numeros](base/181) 
 - [@106 @106 L2 - Valdiskley e a cifra V2!](base/106) 
 - [@094 @094 L2 - Vogais e Consoantes](base/094) 
-- [@163 @163 L4 -  Permutação Lexograficamente Final de Fichas](base/163) 
+- [@163 @163 L4 - Permutação Lexograficamente Final de Fichas](base/163) 
 - [@127 @127 L3 - Amo a Amora meu Amor](base/127) 
 - [@124 @124 L3 - Conversa de Traficantes](base/124) 
 - [@113 @113 L3 - Eribelton e a Ascologia V3](base/113) 

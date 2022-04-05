@@ -1,4 +1,4 @@
-## @080 L3 - Baruel Ruel trocando figurinhas!
+## @080 L3 - Figurinhas
 
 
 ## Motivação

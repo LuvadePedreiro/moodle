@@ -1,4 +1,4 @@
-## @076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre
+## @076 L3 - O segredo do Cofre - OBI 2017
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/076/__capa.jpg)

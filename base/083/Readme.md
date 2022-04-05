@@ -1,4 +1,4 @@
-## @083 L3 - Anfíbios e Batráquios - Está contido
+## @083 L3 - Batráquios
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/083/__capa.jpg)
