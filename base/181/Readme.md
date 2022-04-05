@@ -1,4 +1,4 @@
-## @181 #strings L2 - Somando numeros
+## @181 L2 - Somando numeros
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/181/__capa.jpg)

@@ -1,4 +1,4 @@
-## @082 #vetores L3 - Vetor para inteiro
+## @082 L3 - Vetor para inteiro
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/082/__capa.jpg)

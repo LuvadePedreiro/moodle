@@ -1,4 +1,4 @@
-## @068 #vetores L2 - Organizando a fila do RU
+## @068 L2 - Organizando a fila do RU
 ### Separar Pares e Ímpares
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/068/__capa.jpg)

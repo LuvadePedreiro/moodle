@@ -1,4 +1,4 @@
-## @123 #strings L3 - Sorvete suor casaca chicletes - Letras em Comum!
+## @123 L3 - Sorvete suor casaca chicletes - Letras em Comum!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/123/__capa.jpg)

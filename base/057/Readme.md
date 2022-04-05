@@ -1,4 +1,4 @@
-## @057 #repetição L2 - Revolta em Portugal
+## @057 L2 - Revolta em Portugal
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/057/__capa.jpg)

@@ -1,4 +1,4 @@
-## @094 #strings L2 - Vogais e Consoantes
+## @094 L2 - Vogais e Consoantes
 ### Identificação e Montagem
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/094/__capa.jpg)

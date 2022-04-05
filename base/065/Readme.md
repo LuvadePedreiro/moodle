@@ -1,4 +1,4 @@
-## @065 #repetição L3 - Sapinho 3 matemático
+## @065 L3 - Sapinho 3 matemático
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/065/__capa.jpg)

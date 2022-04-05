@@ -1,4 +1,4 @@
-## @013 #repetição L1 - Sapatos para 3
+## @013 L1 - Sapatos para 3
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/013/__capa.jpg)

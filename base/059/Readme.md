@@ -1,4 +1,4 @@
-## @059 #repetição L3 - Sapinho 2 morrendo no poço
+## @059 L3 - Sapinho 2 morrendo no poço
 
 
 ![sapinho](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/059/__capa.jpg)

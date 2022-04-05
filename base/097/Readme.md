@@ -1,4 +1,4 @@
-## @097 #strings L2 - Gagueira V1 - Duplicar Palavras
+## @097 L2 - Gagueira V1 - Duplicar Palavras
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/097/__capa.jpg)

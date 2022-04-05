@@ -1,4 +1,4 @@
-## @064 #repetição L3 - Conta Dígitos
+## @064 L3 - Conta Dígitos
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/064/__capa.jpg)

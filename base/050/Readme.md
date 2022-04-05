@@ -1,4 +1,4 @@
-## @050 #repetição L2 - Castelos de Cubos
+## @050 L2 - Castelos de Cubos
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/050/__capa.jpg)

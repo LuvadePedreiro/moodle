@@ -1,4 +1,4 @@
-## @188 #vetores L3 - Devolvendo o troco
+## @188 L3 - Devolvendo o troco
 ##
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.

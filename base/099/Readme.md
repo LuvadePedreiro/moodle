@@ -1,4 +1,4 @@
-## @099 #strings L3 - Francês é Fresco
+## @099 L3 - Francês é Fresco
 ### Juntar palavras
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/099/solver.c)

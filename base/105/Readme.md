@@ -1,4 +1,4 @@
-## @105 #strings L3 - Valdiskley e cifras históricas!
+## @105 L3 - Valdiskley e cifras históricas!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/105/__capa.jpg)

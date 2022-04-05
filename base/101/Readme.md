@@ -1,4 +1,4 @@
-## @101 #vetores L2 - Mostrar cartas
+## @101 L2 - Mostrar cartas
 ### Imprimir vetor formatado
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/101/__capa.jpg)

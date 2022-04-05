@@ -1,4 +1,4 @@
-## @108 #strings L3 - Identificando elementos
+## @108 L3 - Identificando elementos
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/108/__capa.jpg)

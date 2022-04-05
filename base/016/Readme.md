@@ -1,4 +1,4 @@
-## @016 #repetição L2 - Volta de 360 graus (Retirando os loops)
+## @016 L2 - Volta de 360 graus (Retirando os loops)
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/016/__capa.jpg)

@@ -1,4 +1,4 @@
-## @100 #vetores L3 - Pião na rodinha
+## @100 L3 - Pião na rodinha
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/100/__capa.jpg)

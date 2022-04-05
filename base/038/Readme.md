@@ -1,4 +1,4 @@
-## @038 #seleção L2 - Próximo segundo
+## @038 L2 - Próximo segundo
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/038/solver.c)
 ![ponteiros de um relógio](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/038/__capa.jpg)

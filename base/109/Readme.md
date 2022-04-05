@@ -1,4 +1,4 @@
-## @109 #strings L2 - Eribelton e a Ascologia V2
+## @109 L2 - Eribelton e a Ascologia V2
 ### Buscando a perfeição
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/109/__capa.jpg)

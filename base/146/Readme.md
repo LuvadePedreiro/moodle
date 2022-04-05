@@ -1,4 +1,4 @@
-## @146 #recursão L3 - Torres de Hanoi
+## @146  L3 - Torres de Hanoi
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/146/__capa.jpg)

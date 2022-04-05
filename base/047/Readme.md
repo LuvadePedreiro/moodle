@@ -1,4 +1,4 @@
-## @047 #repetição L2 - Ônibus lotado
+## @047 L2 - Ônibus lotado
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/047/__capa.jpg)

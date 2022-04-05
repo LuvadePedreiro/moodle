@@ -1,4 +1,4 @@
-## @175 #strings L3 - Separando a partir de tokens
+## @175 L3 - Separando a partir de tokens
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/175/__capa.jpg)

@@ -1,4 +1,4 @@
-## @027 #seleção L2 - Adedonha
+## @027 L2 - Adedonha
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/027/__capa.jpg)

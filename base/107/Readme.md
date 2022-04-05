@@ -1,4 +1,4 @@
-## @107 #strings L3 - Valdiskley e a Cifra v3!
+## @107 L3 - Valdiskley e a Cifra v3!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/107/__capa.jpg)

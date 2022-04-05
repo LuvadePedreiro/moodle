@@ -1,4 +1,4 @@
-## @021 #seleção L2 - Aumento de Salário
+## @021 L2 - Aumento de Salário
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/021/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/021/__capa.jpg)

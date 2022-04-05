@@ -1,4 +1,4 @@
-## @173 #strings L1 - Eribelton e a Ascologia V1 - Somar Asc
+## @173 L1 - Eribelton e a Ascologia V1 - Somar Asc
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/173/__capa.jpg)

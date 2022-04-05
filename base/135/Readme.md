@@ -1,4 +1,4 @@
-## @135 #matrizes L3 - Jogo da vida
+## @135 L3 - Jogo da vida
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/135/__capa.jpg)

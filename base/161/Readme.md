@@ -1,4 +1,4 @@
-## @161 #repetição L3 - Vivo ou Morto - OBI 2005
+## @161 L3 - Vivo ou Morto - OBI 2005
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/161/__capa.jpg)

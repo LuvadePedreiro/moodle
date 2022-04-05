@@ -1,4 +1,4 @@
-## @087 #vetores L3 - Arca Quantos casais
+## @087 L3 - Arca Quantos casais
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/087/__capa.jpg)

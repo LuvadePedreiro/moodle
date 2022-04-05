@@ -1,4 +1,4 @@
-## @052 #repetição L3 - Hoje tem sopa de coelho?
+## @052 L3 - Sopa de coelho?
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/052/__capa.jpg)

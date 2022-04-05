@@ -1,4 +1,4 @@
-## @010 #vetores L3 - Bolinhas viciadas(contagem de repetições)
+## @010 L3 - Bolinhas viciadas(contagem de repetições)
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/010/__capa.jpg)

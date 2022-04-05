@@ -1,4 +1,4 @@
-## @092 #strings L1 - LP da Xura - Inverter String!
+## @092 L1 - LP da Xura - Inverter String!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/092/__capa.jpg)

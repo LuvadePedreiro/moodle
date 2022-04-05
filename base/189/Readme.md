@@ -1,4 +1,4 @@
-## @189 #repetição L2 - Fatores de um número
+## @189 L2 - Fatores de um número
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/189/figura.jpg)
 
 ## Ação

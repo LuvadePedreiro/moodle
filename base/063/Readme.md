@@ -1,4 +1,4 @@
-## @063 #repetição L3 - Blackjack 21!
+## @063 L3 - Blackjack 21!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/063/__capa.jpg)

@@ -1,4 +1,4 @@
-## @078 #vetores L2 - Jogo do Avesso
+## @078 L2 - Jogo do Avesso
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/078/__capa.jpg)

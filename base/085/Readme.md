@@ -1,4 +1,4 @@
-## @085 #vetores L3 - Perto do médico
+## @085 L3 - Perto do médico
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/085/__capa.jpg)

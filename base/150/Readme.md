@@ -1,4 +1,4 @@
-## @150 #matrizes L2 - Soma de matrizes
+## @150 L2 - Soma de matrizes
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/150/__capa.jpg)

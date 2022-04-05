@@ -1,4 +1,4 @@
-## @127 #strings L3 - Amo a Amora meu Amor
+## @127 L3 - Amo a Amora meu Amor
 ### Contar Substrings
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/127/__capa.jpg)

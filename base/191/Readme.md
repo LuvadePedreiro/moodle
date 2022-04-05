@@ -1,4 +1,4 @@
-## @191 L2 - #matrizes Coluna de Valor Maior
+## @191 L2 - Coluna de Valor Maior
 
 ## Motivação
 

@@ -1,4 +1,4 @@
-## @131 #matrizes L2 - Matriz Simétrica
+## @131 L2 - Matriz Simétrica
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/131/__capa.jpg)

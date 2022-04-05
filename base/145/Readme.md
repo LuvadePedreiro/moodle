@@ -1,4 +1,4 @@
-## @145 #recursão L2 - Contando caracteres recursivamente
+## @145  L2 - Contando caracteres recursivamente
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/145/__capa.jpg)

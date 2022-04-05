@@ -1,4 +1,4 @@
-## @102 #strings L3 - Meu cachorro comeu minha tarefa V2
+## @102 L3 - Meu cachorro comeu minha tarefa V2
 ### Retirar espaços duplicados
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/102/__capa.jpg)

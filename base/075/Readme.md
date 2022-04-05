@@ -1,4 +1,4 @@
-## @075 #vetores L3 - Abastecimento de água
+## @075 L3 - Abastecimento de água
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/075/__capa.jpg)

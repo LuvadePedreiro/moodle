@@ -1,4 +1,4 @@
-## @130 #matrizes L2 - Bingo!
+## @130 L2 - Bingo!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/130/__capa.jpg)

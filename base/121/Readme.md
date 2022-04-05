@@ -1,4 +1,4 @@
-## @121 #strings L3 - Mário e o Assassins Creed
+## @121 L3 - Mário e o Assassins Creed
 ### Lendo cenário
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/121/__capa.jpg)

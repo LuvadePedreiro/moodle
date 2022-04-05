@@ -1,4 +1,4 @@
-## @180 #strings L2 - Guerra Civil no Universo Marvel
+## @180 L2 - Guerra Civil no Universo Marvel
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/180/__capa.jpg)

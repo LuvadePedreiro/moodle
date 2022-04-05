@@ -1,4 +1,4 @@
-## @114 #strings L3 - MeU WoRd QuEbRoU
+## @114 L3 - MeU WoRd QuEbRoU
 ### Formatação de Case
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/114/__capa.jpg)

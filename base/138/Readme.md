@@ -1,4 +1,4 @@
-## @138 L3 #vetores - Permutação
+## @138 L3 - Permutação
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/138/solver.c)
 Verifique se um número é permutação de outro
 

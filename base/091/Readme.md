@@ -1,4 +1,4 @@
-## @091 #vetores L2 - MMC
+## @091 L2 - MMC
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/091/__capa.jpg)

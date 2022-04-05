@@ -1,4 +1,4 @@
-## @037 #seleção L3 - Jokenpo 15
+## @037 L3 - Jokenpo 15
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/037/solver.c)
 ## Motivação

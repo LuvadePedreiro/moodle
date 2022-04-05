@@ -1,4 +1,4 @@
-## @051 #repetição L3 - Pedra na lua
+## @051 L3 - Pedra na lua
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/051/__capa.jpg)

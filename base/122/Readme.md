@@ -1,4 +1,4 @@
-## @122 #strings L3 - Nao se bububula - Gagueira V2!
+## @122 L3 - Nao se bububula - Gagueira V2!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/122/__capa.jpg)

@@ -1,4 +1,4 @@
-## @072 #vetores L2 - Soldados PMG!
+## @072 L2 - Soldados PMG!
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/072/__capa.jpg)
