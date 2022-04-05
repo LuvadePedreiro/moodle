@@ -357,3 +357,4 @@
 - [@187 @187  L2 - Jogo da cobrinha](base/187) 
 - [@182 @182  L3 - Mulher mais idosa](base/182) 
 - [@042 @042 L3 - OBI 2021 - Chefe Nervoso](base/042) 
+- [@044 @044 L3 - Soma de vários números.](base/044) 
