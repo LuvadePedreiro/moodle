@@ -1,4 +1,4 @@
-## @147  L1 - Duelo
+## @147 L1 - Duelo
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/147/__capa.jpg)
