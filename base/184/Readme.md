@@ -1,4 +1,4 @@
-## @184 L3 - Motivando a turma de secundaristas
+## @184 L3 - Secundaristas
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/184/__capa.jpg)

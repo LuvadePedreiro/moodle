@@ -225,9 +225,9 @@
 ### Ordenação
 - [@198 @198 L1 - Paredes](base/198) 
 - [@073 @073 L2 - Batida Policial](base/073) 
-- [@069 @069 L2 - Arca: Quantas especies!](base/069) 
+- [@200 @200 L2 - Vacina](base/200) 
+- [@088 @088 L2 - Mediana](base/088) 
 - [@197 @197 L2 - Indices](base/197) 
-- [@088 @088 L3 - Mediana](base/088) 
 
 ### Lógica
 - [@075 @075 L3 - Abastecimento de água](base/075) 
@@ -238,6 +238,7 @@
 - [@070 @070 L3 - Cabeças vão rolar](base/070) 
 - [@074 @074 L3 - Botas Trocadas - OBI 2017](base/074) 
 - [@076 @076 L3 - O segredo do Cofre - OBI 2017](base/076) 
+- [@042 @042 L3 - OBI 2021 - Chefe Nervoso](base/042) 
 
 ### Math
 - [@138 @138 L3 - Permutação](base/138) 
@@ -354,8 +355,9 @@
 - [@148 @148 L1 - Expressão](base/148) 
 - [@149 @149 L1 - Operações](base/149) 
 - [@199 @199 L2 - Pizza](base/199) 
-- [@184 @184 L3 - Motivando a turma de secundaristas](base/184) 
+- [@201 @201 L2 - Comparar Data](base/201) 
+- [@069 @069 L2 - Retângulo](base/069) 
+- [@202 @202 L2 - Ponto perto](base/202) 
 - [@187 @187 L2 - Jogo da cobrinha](base/187) 
+- [@184 @184 L3 - Secundaristas](base/184) 
 - [@182 @182 L3 - Mulher mais idosa](base/182) 
-- [@042 @042 L3 - OBI 2021 - Chefe Nervoso](base/042) 
-- [@044 @044 L3 - Soma de vários números.](base/044) 

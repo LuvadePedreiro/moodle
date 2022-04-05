@@ -1,6 +1,6 @@
-## @088 L3 - Mediana
+## @088 L2 - Mediana
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/088/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/088/__capa.jpg)
 
 ## Motivação
