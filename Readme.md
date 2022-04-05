@@ -198,17 +198,17 @@
 
 
 ### Conversão
-- [@063 @063 L3 - Blackjack 21!](base/063) 
 - [@101 @101 L2 - Mostrar cartas](base/101) 
+- [@063 @063 L3 - Blackjack 21!](base/063) 
 - [@188 @188 L3 - Devolvendo o troco](base/188) 
 - [@082 @082 L3 - Vetor para inteiro](base/082) 
 
 ### Manipulação
-- [@161 @161 L3 - Vivo ou Morto - OBI 2005](base/161) 
 - [@061 @061 L2 - Invertendo vetor](base/061) 
 - [@091 @091 L2 - MMC](base/091) 
 - [@068 @068 L2 - Fila do RU](base/068) 
 - [@186 @186 L2 - Linha de inteiros](base/186) 
+- [@161 @161 L3 - Vivo ou Morto - OBI 2005](base/161) 
 - [@081 @081 L3 - Decompor um inteiro](base/081) 
 - [@087 @087 L3 - Arca: Quantos casais](base/087) 
 - [@084 @084 L3 - Arca: Exemplares](base/084) 
@@ -225,9 +225,9 @@
 ### Ordenação
 - [@198 @198 L1 - Paredes](base/198) 
 - [@073 @073 L2 - Batida Policial](base/073) 
-- [@088 @088 L3 - Mediana](base/088) 
 - [@069 @069 L2 - Arca: Quantas especies!](base/069) 
 - [@197 @197 L2 - Indices](base/197) 
+- [@088 @088 L3 - Mediana](base/088) 
 
 ### Lógica
 - [@075 @075 L3 - Abastecimento de água](base/075) 
@@ -304,7 +304,7 @@
 - [@107 @107 L3 - Valdiskley e a Cifra v3!](base/107) 
 - [@105 @105 L3 - Valdiskley e cifras históricas!](base/105) 
 - [@162 @162 L3 - Mini-Poker - OBI2005](base/162) 
-- [@041 @041  L3 - Criptografia](base/041) 
+- [@041 @041 L3 - Criptografia](base/041) 
 
 
 ## 06. Matrizes
