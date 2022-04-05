@@ -1,4 +1,4 @@
-## @139 #funcoes L4 - A Porta Matemática
+## @139 L4 - A Porta Matemática
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/139/capa.png)

@@ -1,6 +1,7 @@
 ## @133 L2 - Soldados em Posição
 
 
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/133/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/133/__capa.jpg)
 
 ## Motivação
