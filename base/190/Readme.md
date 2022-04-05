@@ -1,4 +1,4 @@
-## @190 L4 - Maiores Palíndromos #repetição
+## @190 L4 - Maiores Palíndromos 
 
 ## Motivação
 Números palíndromos são números que tem a mesma leitura nos dois sentidos.
