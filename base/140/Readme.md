@@ -1,4 +1,4 @@
-## @140  L3 - Contando caracteres recursivamente
+## @140 L3 - Contando caracteres recursivamente
 
 
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/140/__capa.jpg)

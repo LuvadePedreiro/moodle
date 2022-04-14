@@ -102,7 +102,7 @@ Conteúdo sugeridos
 - [@193 @193 L2 - Dominó - OBI 2019 F1PJ](base/193) 
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
 - [@028 @028 L2 - Cabeça da cobra](base/028) 
-- [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016) 
+- [@016 @016 L2 - Volta de 360 graus - Retirando os loops](base/016) 
 - [@019 @019 L2 - Game 10 - OBI 2017 - Fase 1 - Universitário](base/019) 
 - [@034 @034 L3 - Formiga da bundona](base/034) 
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
@@ -313,10 +313,10 @@ Conteúdo sugeridos
 
 ## 28. Recursão
 
-- [@145 @145  L2 - Contando caracteres recursivamente](base/145) 
-- [@141 @141  L2 - Números de Fibonacci](base/141) 
-- [@140 @140  L3 - Contando caracteres recursivamente](base/140) 
-- [@146 @146  L3 - Torres de Hanoi](base/146) 
+- [@145 @145 L2 - Contando caracteres recursivamente](base/145) 
+- [@141 @141 L2 - Números de Fibonacci](base/141) 
+- [@140 @140 L3 - Contando caracteres recursivamente](base/140) 
+- [@146 @146 L3 - Torres de Hanoi](base/146) 
 
 ## 29. Structs
 
