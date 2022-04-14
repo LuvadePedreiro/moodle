@@ -77,13 +77,13 @@ Conteúdo sugeridos
 - [@026 @026 L1 - Positivo, Nulo ou Negativo?](base/026) 
 - [@031 @031 L2 - Fiquei de final](base/031) 
 - [@040 @040 L2 - Está Trabalhando ou Não!](base/040) 
-- [@035 @035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035) 
+- [@035 @035 L2 - Drone de Entrega - OBI 2017 - Fase 1](base/035) 
 
 ## 04. Selação: Biblioteca Math
 - [@018 @018 L2 - Arredondar](base/018) 
 - [@030 @030 L2 - Mercantil V1 - Quem chega mais perto](base/030) 
 - [@039 @039 L2 - Mercantil V2 - Maior ou Menor](base/039) 
-- [@001 @001 L2 - Sai fora Bhaskara (Cálculo de raízes)](base/001) 
+- [@001 @001 L2 - Bhaskara](base/001) 
 
 ## 05. Seleção: Lógica
 - [@157 @157 L1 - Frota de Táxi - OBI 2005](base/157) 
@@ -103,7 +103,7 @@ Conteúdo sugeridos
 - [@005 @005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005) 
 - [@028 @028 L2 - Cabeça da cobra](base/028) 
 - [@016 @016 L2 - Volta de 360 graus (Retirando os loops)](base/016) 
-- [@019 @019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019) 
+- [@019 @019 L2 - Game 10 - OBI 2017 - Fase 1 - Universitário](base/019) 
 - [@034 @034 L3 - Formiga da bundona](base/034) 
 - [@006 @006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006) 
 - [@037 @037 L3 - Jokenpo 15](base/037) 
@@ -137,7 +137,7 @@ Conteúdo sugeridos
 ## 10. Laço: Básico
 - [@013 @013 L1 - Sapatos para 3](base/013) 
 - [@045 @045 L1 - Soma dos pares](base/045) 
-- [@053 @053 L2 - OBI 2016 - Fuga em helicóptero](base/053) 
+- [@053 @053 L2 - Fuga em helicóptero - OBI 2016](base/053) 
 - [@046 @046 L2 - Jogo da Concentração](base/046) 
 
 ## 11. Técnicas de controle
@@ -190,7 +190,7 @@ Conteúdo sugeridos
 ## 17. Vetores: Proximidade
 - [@067 @067 L2 - Queda de dominós](base/067) 
 - [@078 @078 L2 - Jogo do Avesso](base/078) 
-- [@136 @136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136) 
+- [@136 @136 L2 - Trilhas Easy- OBI 2005](base/136) 
 - [@158 @158 L3 - Trilhas - OBI 2005](base/158) 
 - [@071 @071 L3 - Parkour](base/071) 
 - [@085 @085 L3 - Perto do médico](base/085) 
@@ -212,12 +212,12 @@ Conteúdo sugeridos
 - [@070 @070 L3 - Cabeças vão rolar](base/070) 
 - [@074 @074 L3 - Botas Trocadas - OBI 2017](base/074) 
 - [@076 @076 L3 - O segredo do Cofre - OBI 2017](base/076) 
-- [@042 @042 L3 - OBI 2021 - Chefe Nervoso](base/042) 
+- [@042 @042 L3 - Chefe Nervoso - OBI 2021](base/042) 
 
 ## 20. Vetores: Math
 - [@138 @138 L3 - Permutação](base/138) 
 - [@008 @008 L3 - Senhas](base/008) 
-- [@190 @190 L4 - Maiores Palíndromos ](base/190) 
+- [@190 @190 L4 - Maiores Palíndromos](base/190) 
 
 
 ## 21. Strings I
@@ -287,7 +287,7 @@ Conteúdo sugeridos
 - [@191 @191 L2 - Coluna de Valor Maior](base/191) 
 - [@134 @134 L2 - Quadrado Mágico](base/134) 
 - [@128 @128 L2 - Soma de elementos de em uma matriz](base/128) 
-- [@153 @153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/153) 
+- [@153 @153 L3 - Torre - OBI 2015 - Fase 2 - Nível 1](base/153) 
 - [@133 @133 L2 - Soldados em Posição](base/133) 
 
 ## 26. Matrizes II
@@ -299,7 +299,7 @@ Conteúdo sugeridos
 - [@007 @007 L3 - Tetris (Fazendo a peça cair)](base/007) 
 - [@129 @129 L3 - Campo Minado](base/129) 
 - [@159 @159 L3 - Campo de Minhocas - OBI 2005](base/159) 
-- [@154 @154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/154) 
+- [@154 @154 L3 - Código - OBI 2015 - Fase 2 - Nível Júnior](base/154) 
 
 
 ## 27. Ponteiros

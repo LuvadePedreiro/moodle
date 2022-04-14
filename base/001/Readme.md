@@ -1,4 +1,4 @@
-## @001 L2 - Sai fora Bhaskara (Cálculo de raízes)
+## @001 L2 - Bhaskara
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/001/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/001/__capa.jpg)
