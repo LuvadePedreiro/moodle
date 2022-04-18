@@ -1,6 +1,6 @@
 ## @146 L3 - Torres de Hanoi
 
-
+[](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/146/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/146/__capa.jpg)
 
 ## Motivação
