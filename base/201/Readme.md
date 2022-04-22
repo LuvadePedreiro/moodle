@@ -1,5 +1,7 @@
 ## @201 L2 - Comparar Data
 
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/201/__capa.jpg)
+
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 
 ```C

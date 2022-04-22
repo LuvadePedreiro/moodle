@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/138/solver.c)
 Verifique se um número é permutação de outro
 
-![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/138/capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/138/__capa.jpg)
 
 ### Motivação
 

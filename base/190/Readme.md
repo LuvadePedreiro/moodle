@@ -1,5 +1,7 @@
 ## @190 L4 - Maiores Palíndromos
 
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/190/__capa.jpg)
+
 ## Motivação
 Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 

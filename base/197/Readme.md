@@ -1,5 +1,7 @@
 ## @197 L2 - Indices
 
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/197/__capa.jpg)
+
 Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem não decrescente e imprimir os índices originais da novo vetor ordenado.
 
 Exemplo:

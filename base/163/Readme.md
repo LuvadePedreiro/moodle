@@ -1,5 +1,7 @@
 ## @163 L4 - Permutação Lexograficamente Final de Fichas
 
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/163/__capa.jpg)
+
 ## Motivação:
 
 Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila.

@@ -1,6 +1,6 @@
 ## @160 L3 - Somatório de Fibonacci
 
-![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/160/capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/160/__capa.jpg)
 
 ## Motivação
 

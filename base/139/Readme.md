@@ -1,7 +1,7 @@
 ## @139 L4 - A Porta Matemática
 
 
-![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/139/capa.png)
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/139/__capa.jpg)
 
 Motivação
 ---------

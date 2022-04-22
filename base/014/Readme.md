@@ -1,4 +1,4 @@
-## @014 L1 - Quantos são iguais? (Contando Repetidos)
+## @014 L1 - Quantos são iguais?
 
 [](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/014/solver.c)
 ![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/014/__capa.jpg)

@@ -1,5 +1,6 @@
 ## @188 L3 - Devolvendo o troco
-##
+
+![](https://raw.githubusercontent.com/qxcodefup/moodle/master/base/188/__capa.jpg)
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.
 
